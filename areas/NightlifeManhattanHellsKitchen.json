@@ -1,0 +1,1071 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.012916309999994269, 
+            "longitude_delta": 0.012763629999994919
+        }, 
+        "center": {
+            "latitude": 40.762543050000005, 
+            "longitude": -73.98850535
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-waylon-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 36, 
+            "name": "The Waylon", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-waylon-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/rvabT9eHrKFKgfNPrp69Zw/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2122650010", 
+            "snippet_text": "Fantastic place to have a drink, and listen to some great music.\n\nThe most authentic country bar in the city, and it also serves some great food.  Love the...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/64fQ0RskMcttYCJ9o8SgDw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/ANx_EWazo1ru_WWSNp0V8Q/ms.jpg", 
+            "display_phone": "+1-212-265-0010", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "the-waylon-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "51st St & 50th St", 
+                "city": "New York", 
+                "display_address": [
+                    "736 10th Ave", 
+                    "Midtown West", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "736 10th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7650840967709, 
+                    "longitude": -73.9918056894333
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/pocket-bar-nyc-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 123, 
+            "name": "Pocket Bar NYC", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/pocket-bar-nyc-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "6466829062", 
+            "snippet_text": "At first, my friend and I walked right past it because we looked through the window and saw the bartender with a beret on. Honestly, we thought the place...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/qWYWOoJcUIWiZxOOaa8ihg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Y96PcPju055JloXkqwDoRA/ms.jpg", 
+            "display_phone": "+1-646-682-9062", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "pocket-bar-nyc-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "10th Ave & 9th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "455 W 48th St", 
+                    "Midtown West", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "455 W 48th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7633645, 
+                    "longitude": -73.9922985
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/bar-catalina-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 90, 
+            "name": "Bar Catalina", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/bar-catalina-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Pizza", 
+                    "pizza"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "2125414007", 
+            "snippet_text": "Awesome! So after bringing some friends from out of town over to Times Square, we decided to grab dinner here. We Literally passed dozens of places but I...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/nQ6j_iJg0MeLPQXy2zFFUA/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/CSkxy4HiJkZsD7D3vf1RQg/ms.jpg", 
+            "display_phone": "+1-212-541-4007", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "bar-catalina-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "46th St & 47th St", 
+                "city": "New York", 
+                "display_address": [
+                    "675 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "675 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7613615, 
+                    "longitude": -73.990708
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/beer-culture-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 198, 
+            "name": "Beer Culture", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/beer-culture-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Beer, Wine & Spirits", 
+                    "beer_and_wine"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6465902139", 
+            "snippet_text": "We had a great experience.  We had a large group of 10 people and ordered a few different menu items.  The beer selection was amazing and the bartender took...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/vauxjYYjzx9EAYBVwnb5RA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/GgX89BIZhbCGVWWrqvFUBA/ms.jpg", 
+            "display_phone": "+1-646-590-2139", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "beer-culture-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "9th Ave & 8th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "328 W 45th St", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "328 W 45th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.759495, 
+                    "longitude": -73.989769
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/bestbar-new-york-city-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 25, 
+            "name": "BestBar New York City", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/bestbar-new-york-city-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "phone": "6465104786", 
+            "snippet_text": "There comes a time in every man's life when he must order a beer, drink it, and rock out to a good juke box... It doesn't hurt that the bartenders are...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/ALYg0UzRxXRiob1aNr_SLQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/ddUYMD7c2Q6k1zIyGVvx3A/ms.jpg", 
+            "display_phone": "+1-646-510-4786", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "bestbar-new-york-city-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "9th Ave & 8th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "355 W 41st St", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "355 W 41st St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.757774, 
+                    "longitude": -73.992538
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/deacon-brodies-tavern-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 60, 
+            "name": "Deacon Brodie's Tavern", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/deacon-brodies-tavern-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/EuoHL-sfKlSoLdeYDJZgUA/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122621452", 
+            "snippet_text": "I love this place, amazing bartenders, great local always a good time! The juke box is state of the art, bring ur quarters", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/rnBRVkpawqnoNWl70V0PHA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/KMrv2wyNqvLcWNBOL0ZUuA/ms.jpg", 
+            "display_phone": "+1-212-262-1452", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "deacon-brodies-tavern-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "9th Ave & 8th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "370 W 46th St", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "370 W 46th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7606896, 
+                    "longitude": -73.9903717
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/rudys-bar-and-grill-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 798, 
+            "name": "Rudy's Bar & Grill", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/rudys-bar-and-grill-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ], 
+                [
+                    "Hot Dogs", 
+                    "hotdog"
+                ]
+            ], 
+            "phone": "6467070890", 
+            "snippet_text": "I LOVE LOVE LOVE this place! Great hole in the wall dive bar that doesn't give off the hipster vibe. Good place to socialize after work or meet up with old...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/2366Dgpax879tmGzr7jjjQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/ASAuCQjiH32VXRc_2alLdw/ms.jpg", 
+            "display_phone": "+1-646-707-0890", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "rudys-bar-and-grill-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "44th St & 45th St", 
+                "city": "New York", 
+                "display_address": [
+                    "627 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "627 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7600402832031, 
+                    "longitude": -73.9918212890625
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "rating": 4.0, 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "display_phone": "+1-212-956-2155", 
+            "id": "havana-social-new-york-2", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/44389?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi", 
+            "mobile_url": "http://m.yelp.com/biz/havana-social-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "review_count": 228, 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/uQ2ZgoCNeg2gDDrMQ2Ppng/ms.jpg", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/KfZI6oovMvG5tLd0NFBeKQ/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "48th St & 49th St", 
+                "city": "New York", 
+                "display_address": [
+                    "688 10th Ave", 
+                    "Midtown West", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "688 10th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.763467, 
+                    "longitude": -73.992304
+                }, 
+                "state_code": "NY"
+            }, 
+            "is_claimed": true, 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "phone": "2129562155", 
+            "snippet_text": "Excellent excellent excellent.\nFood ****\nService *****(many more stars)\nAmbience *****\n1 small suggestion..need to change timing in Yelp ( it shows...", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "categories": [
+                [
+                    "Cuban", 
+                    "cuban"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Tapas Bars", 
+                    "tapas"
+                ]
+            ], 
+            "name": "Havana Social", 
+            "url": "http://www.yelp.com/biz/havana-social-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/tDE-OWh4WE1mpI4UiQ2UiQ/ms.jpg", 
+            "menu_provider": "eat24", 
+            "menu_date_updated": 1451507361
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/hibernia-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 105, 
+            "name": "Hibernia", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/hibernia-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "phone": "2129699703", 
+            "snippet_text": "Only go here if you like: \n\n-Live Sports - particularly the Steelers (Hibernia has a sweet setup for NFL, soccer, MLB games and more)\n-Great Music - lots of...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/xCgCGiyUI-tTbzNA75cxyw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/ANx_EWazo1ru_WWSNp0V8Q/ms.jpg", 
+            "display_phone": "+1-212-969-9703", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "hibernia-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "10th Ave & 9th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "401 W 50th St", 
+                    "Midtown West", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "401 W 50th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7636681, 
+                    "longitude": -73.9890442
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/parkview-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 18, 
+            "name": "Parkview Lounge", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/parkview-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "menu_date_updated": 1452607837, 
+            "phone": "2128239770", 
+            "snippet_text": "The old Stone Rose has rebranded, but not much has changed. The views are still good (during the day/dusk is the best time to go), the cocktails are still...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/ZZ9jYFN17s7LfU4pVC0cJQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/2lcj5BIv7MCHnNj9LfTMXQ/ms.jpg", 
+            "display_phone": "+1-212-823-9770", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "parkview-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "W Central Park & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "10 Columbus Cir", 
+                    "4th Fl", 
+                    "Midtown West", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "10 Columbus Cir", 
+                    "4th Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7678905874491, 
+                    "longitude": -73.9824150502682
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/annabel-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 157, 
+            "name": "Annabel", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/annabel-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pizza", 
+                    "pizza"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "menu_date_updated": 1442207151, 
+            "phone": "2122452215", 
+            "snippet_text": "My boyfriend and I come here all the time (unfortunately it's gotten super popular so you need a reservation).\n\nAll the pizzas and pastas were great but we...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/9MLc44ZY04AyDZNCYAMjzg/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/fiuJXwgUKdsfm3E8-EgVKg/ms.jpg", 
+            "display_phone": "+1-212-245-2215", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "annabel-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "53rd St & 54th St", 
+                "city": "New York", 
+                "display_address": [
+                    "809 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "809 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.765841, 
+                    "longitude": -73.987619
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-pony-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 749, 
+            "name": "The Pony Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-pony-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1452380479, 
+            "phone": "2125862707", 
+            "snippet_text": "The Pony Bar comes with great selection of craft beers. When I visited on a Sunday, most of the craft beers are from the East Coast (around the NY, PA, MA...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/7JEMWj_14a1qBxuRvJjO-g/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/P7vnLxqdfnrxT4IllEqZjw/ms.jpg", 
+            "display_phone": "+1-212-586-2707", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-pony-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "45th St & 46th St", 
+                "city": "New York", 
+                "display_address": [
+                    "637 10th Ave", 
+                    "Midtown West", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "637 10th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.761787, 
+                    "longitude": -73.994308
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/at-nine-restaurant-and-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 218, 
+            "name": "At nine Restaurant & Bar", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/6WZw6RLey24MdHs2N27Naw/ms.jpg", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/at-nine-restaurant-and-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "42nd St & 43rd St", 
+                "city": "New York", 
+                "display_address": [
+                    "592 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "592 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.758697, 
+                    "longitude": -73.992064
+                }, 
+                "state_code": "NY"
+            }, 
+            "menu_date_updated": 1452251375, 
+            "phone": "2122654499", 
+            "snippet_text": "FINALLY!! Ive been searching all over NYC for good spicy food! This is my first trip to the big city and only here for 4 days so I didn't have much time. I...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/1oOoa08KqHLv5xTkpYqlMw/ms.jpg", 
+            "categories": [
+                [
+                    "Thai", 
+                    "thai"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "display_phone": "+1-212-265-4499", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "eat24", 
+            "id": "at-nine-restaurant-and-bar-new-york", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/25842?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi"
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/jaspers-taphouse-kitchen-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 108, 
+            "name": "Jasper's Taphouse + Kitchen", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/jaspers-taphouse-kitchen-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2129571000", 
+            "snippet_text": "Some of the better sports bar food I've had in a long time. \n\nThey have a small menu but enough options and some game time specials. \n\nShared the Tailgate...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/8r02q7UxgMCMHw4bpWlOoQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/a80Ey9BG31wy5MlxJusdRg/ms.jpg", 
+            "display_phone": "+1-212-957-1000", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "jaspers-taphouse-kitchen-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "51st St & 52nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "761 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "761 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.764266, 
+                    "longitude": -73.9886122
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/holland-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 66, 
+            "name": "Holland Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/holland-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ], 
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ]
+            ], 
+            "phone": "2125024609", 
+            "snippet_text": "Great dive bar!  Tiny on the inside, maybe ten bar stools but on a Tuesday night there were only a few people there. Cheap drinks too!  Only complaint was...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/qv_XvSDnVmCVNpgk4JHnBA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/GZtaur2LZepor9qwnWmGSw/ms.jpg", 
+            "display_phone": "+1-212-502-4609", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "holland-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "532 Ninth Ave", 
+                    "Midtown West", 
+                    "New York, NY 10018"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10018", 
+                "country_code": "US", 
+                "address": [
+                    "532 Ninth Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7566719, 
+                    "longitude": -73.9934921
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/valhalla-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 370, 
+            "name": "Valhalla", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/valhalla-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "menu_date_updated": 1441967796, 
+            "phone": "2127572747", 
+            "snippet_text": "Great specialty beer selection and good bar food. Hot dogs and the like. Tons of seating. \n\n+ Picklebacks.", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/RlVSKWkUiYLG0XTfBMQ7dA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/J-QLzqX2btskvUFmUuC_XA/ms.jpg", 
+            "display_phone": "+1-212-757-2747", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "valhalla-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "53rd St & 54th St", 
+                "city": "New York", 
+                "display_address": [
+                    "815 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "815 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7658930122852, 
+                    "longitude": -73.9872604608536
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/sky-terrace-at-hudson-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 59, 
+            "name": "Sky Terrace at Hudson", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/sky-terrace-at-hudson-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2125546000", 
+            "snippet_text": "Love this bar!  This is one of my \"almost don't want to talk about it because I don't want to ruin it\" places.  Unexpectedly great views - truly.  The...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/TqSb66Dxy6-0-px2RrYKXQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/n4ZLKLoXEZi0GuNBrdwD0A/ms.jpg", 
+            "display_phone": "+1-212-554-6000", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "sky-terrace-at-hudson-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "Hudson Hotel", 
+                    "356 W 58th Street, 15th Floor", 
+                    "Midtown West", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "Hudson Hotel", 
+                    "356 W 58th Street, 15th Floor"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7681046, 
+                    "longitude": -73.9844055
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/on-the-rocks-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 152, 
+            "name": "On The Rocks", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/on-the-rocks-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122472055", 
+            "snippet_text": "The only reason this place didn't get 5 stars was for things beyond their control. \n\n1. No Food, (though they welcome your bringing it from outside)\n2. It's...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/nG3mf_OjzqFeh7vr4ity2A/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/whp_YGLixDHOU6gZSYGpDQ/ms.jpg", 
+            "display_phone": "+1-212-247-2055", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "on-the-rocks-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "48th St & 49th St", 
+                "city": "New York", 
+                "display_address": [
+                    "696 10th Ave", 
+                    "Midtown West", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "696 10th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.763725, 
+                    "longitude": -73.992111
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/réunion-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 436, 
+            "name": "Réunion", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/réunion-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2125823200", 
+            "snippet_text": "Surfer themed bar in Manhattan?! This place is definitely a pleasant surprise in Hell's Kitchen. \n\nDropped by for a gathering with Yelper Anna H. on a...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/eG3gatsQjeZazDSF-UBXfg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/JydiyPRaNttaULrIbDx6fw/ms.jpg", 
+            "display_phone": "+1-212-582-3200", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "réunion-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "9th Ave & 8th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "357 W 44th St", 
+                    "Theater District", 
+                    "New York, NY 10036"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10036", 
+                "country_code": "US", 
+                "address": [
+                    "357 W 44th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.75964943513, 
+                    "longitude": -73.991308284398
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/brickyard-gastropub-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 458, 
+            "name": "Brickyard Gastropub", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/brickyard-gastropub-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Gastropubs", 
+                    "gastropubs"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ], 
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ]
+            ], 
+            "menu_date_updated": 1452428523, 
+            "phone": "2127670077", 
+            "snippet_text": "Brickyard is a great place to grab some bar food and try their ~15 beers on tap (slightly more upscale than your normal bar in the Hell's Kitchen area)....", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/QgxxQkiKb52tyh786gahAQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/I7A9UM28NGiDQ4yzG7icQQ/ms.jpg", 
+            "display_phone": "+1-212-767-0077", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "brickyard-gastropub-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "53rd St & 52nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "785 9th Ave", 
+                    "Theater District", 
+                    "New York, NY 10019"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Theater District", 
+                    "Midtown West", 
+                    "Hell's Kitchen"
+                ], 
+                "postal_code": "10019", 
+                "country_code": "US", 
+                "address": [
+                    "785 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7650909423828, 
+                    "longitude": -73.9881820678711
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

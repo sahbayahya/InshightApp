@@ -1,0 +1,1028 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.015164319187377373, 
+            "longitude_delta": 0.02288715000000252
+        }, 
+        "center": {
+            "latitude": 40.722617572357905, 
+            "longitude": -73.99830705
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/copper-and-oak-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 43, 
+            "name": "Copper & Oak", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/copper-and-oak-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "snippet_text": "This is the most treasured room in Ron Swanson's heaven.\n\nThere is no better way to describe Cooper & Oak than \"Whisk(e)y Shrine\". Honorable mentions go to...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/BnKXTOwVG_y8epUP3rDESw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/JnV-c8ziIpzIvqczok_tzQ/ms.jpg", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "copper-and-oak-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "157 Allen St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "157 Allen St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.721061, 
+                    "longitude": -73.989862
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/lumos-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 22, 
+            "name": "Lumos Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/lumos-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "6466929866", 
+            "snippet_text": "A drink adventure!\nThis place is one of a kind\nMust try the Baijiu!", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/rsKrjheJZg4jIxlPSZNg0Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/GaFleeLoL9ORGf9mIOQgUA/ms.jpg", 
+            "display_phone": "+1-646-692-9866", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "lumos-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Bowery & Elizabeth St", 
+                "city": "New York", 
+                "display_address": [
+                    "90 W Houston St", 
+                    "Greenwich Village", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Greenwich Village"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "90 W Houston St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.72719, 
+                    "longitude": -73.99999
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/whiskey-tavern-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 495, 
+            "name": "Whiskey Tavern", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/whiskey-tavern-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "menu_date_updated": 1442017854, 
+            "phone": "2123749119", 
+            "snippet_text": "One of the best dive bars in Manhattan.\n\nHead down to Chinatown, where Baxter Street meets White Street, and in between two bail bonds you will find this...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/ugRtqxgot0ybONW46BdRWQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/xyofTBvXVM9CqXsyUtzI8w/ms.jpg", 
+            "display_phone": "+1-212-374-9119", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "whiskey-tavern-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Walker St & White St", 
+                "city": "New York", 
+                "display_address": [
+                    "79 Baxter St", 
+                    "Chinatown", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Chinatown"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "79 Baxter St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.716465, 
+                    "longitude": -73.999687
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/belle-reve-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 43, 
+            "name": "Belle Reve", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/belle-reve-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "menu_date_updated": 1452605651, 
+            "phone": "2126800101", 
+            "snippet_text": "On a recent stay in Tribeca we ended up wandering in for a quick late lunch and were pleasantly surprised by the food. Pork Belly BLT was great and everyone...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/ImOkEm1gqZ5twXctoWHByA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/hkemJ8uUIp1q1FZqYDo4_g/ms.jpg", 
+            "display_phone": "+1-212-680-0101", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "belle-reve-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Walker St & Lispenard St", 
+                "city": "New York", 
+                "display_address": [
+                    "305 Church St", 
+                    "TriBeCa", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "TriBeCa"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "305 Church St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7194828, 
+                    "longitude": -74.0041366
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/baby-grand-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 137, 
+            "name": "Baby Grand", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/baby-grand-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Karaoke", 
+                    "karaoke"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122198110", 
+            "snippet_text": "Baby Grand is a treasure. I have spent many fun nights there - the atmosphere is fun and laid-back, with many amazing singers taking turns at the mic....", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/gWQxOFnxrNOoUfLis4RzEA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-212-219-8110", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "baby-grand-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Grand St & Howard St", 
+                "city": "New York", 
+                "display_address": [
+                    "161 Lafayette St", 
+                    "SoHo", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "SoHo"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "161 Lafayette St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7197504957621, 
+                    "longitude": -73.999181630097
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-up-and-up-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 61, 
+            "name": "The Up & Up", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-up-and-up-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2122603000", 
+            "snippet_text": "This was easily my favorite bar in my four day NYC trip. We had midnight show tickets to the Comedy Cellar, which is across the street, and saw great...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/DttYF8ucvyPBICM1G2V3GA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/8AbJrkFBvi2kdqsGr3bU8w/ms.jpg", 
+            "display_phone": "+1-212-260-3000", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-up-and-up-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "116 MacDougal St", 
+                    "Greenwich Village", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Greenwich Village"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "116 MacDougal St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7295104447158, 
+                    "longitude": -74.0006693438721
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-ship-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 109, 
+            "name": "The Ship", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-ship-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2122198496", 
+            "snippet_text": "I haven't exactly figured out why this place is called \"the ship\", but I do know that it is one incredible mixology spot.  The small plates here are...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/93rmuEiJOb5ioHOz1An8xQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/7kxtPHYKpRQ4qE1afsdUQA/ms.jpg", 
+            "display_phone": "+1-212-219-8496", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-ship-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Grand St & Howard St", 
+                "city": "New York", 
+                "display_address": [
+                    "158 Lafayette St", 
+                    "SoHo", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "SoHo"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "158 Lafayette St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7198443, 
+                    "longitude": -73.99947
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/oficina-1000miglia-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 28, 
+            "name": "Oficina 1000Miglia", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/oficina-1000miglia-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Italian", 
+                    "italian"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Cafes", 
+                    "cafes"
+                ]
+            ], 
+            "phone": "7184313332", 
+            "snippet_text": "Incredible food from a most unassuming source in the heart of Nolita.\n\nI blame my upbringing dining at kitschy restaurants that lacked substance, but had...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/phNAVV0fioSnpwepFfwRkQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/62kBRdSZPRkruIUcNxOr0g/ms.jpg", 
+            "display_phone": "+1-718-431-3332", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "oficina-1000miglia-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Mulberry St & Mott St", 
+                "city": "New York", 
+                "display_address": [
+                    "371 Broome St", 
+                    "Little Italy", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Little Italy"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "371 Broome St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7201104, 
+                    "longitude": -73.9962293
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/fig-19-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 133, 
+            "name": "Fig 19", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/fig-19-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "snippet_text": "Came here late-night on my birthday as a final stop, with the remaining crowd of our group of friends. This place is a hidden gem, and I hope it stays that...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/BDWoOlPU-wdS3pwOxSH4eg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/Afwbijt-M8p-V_-74p3X7w/ms.jpg", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "fig-19-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "131 1/2 Chrystie St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "131 1/2 Chrystie St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.719555215168, 
+                    "longitude": -73.993238280429
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "rating": 4.0, 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "display_phone": "+1-212-260-1700", 
+            "id": "carroll-place-new-york", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/31965?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi", 
+            "mobile_url": "http://m.yelp.com/biz/carroll-place-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "review_count": 335, 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/k7LdNThrnjAgsT0x-Rtw4Q/ms.jpg", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/WHQpLvxkCK_BMtF8pIShnQ/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "Thompson St & Sullivan St", 
+                "city": "New York", 
+                "display_address": [
+                    "157 Bleecker St", 
+                    "Greenwich Village", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Greenwich Village"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "157 Bleecker St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7286329, 
+                    "longitude": -73.9998011
+                }, 
+                "state_code": "NY"
+            }, 
+            "is_claimed": true, 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "phone": "2122601700", 
+            "snippet_text": "I came to Carroll Place for brunch a few months ago...Loved it!!! I had a pizza which was amazing!! Of my 4 friends, 3 of us actually got pizza and thought...", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "categories": [
+                [
+                    "Gastropubs", 
+                    "gastropubs"
+                ], 
+                [
+                    "Italian", 
+                    "italian"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "name": "Carroll Place", 
+            "url": "http://www.yelp.com/biz/carroll-place-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/ynDBgrtLVweUk62gp2dcnw/ms.jpg", 
+            "menu_provider": "single_platform", 
+            "menu_date_updated": 1452597670
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-village-underground-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 208, 
+            "name": "The Village Underground", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-village-underground-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dance Clubs", 
+                    "danceclubs"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2127777745", 
+            "snippet_text": "Wow. What an incredible night here. I have to first give a shout out to Liz F. - my experience here couldn't have been better.\n\nI'm not sure how this...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/iRPkfXbFw-LVTyhQKIV9cw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/3bkv6QFi4soGFpsJhRjNDw/ms.jpg", 
+            "display_phone": "+1-212-777-7745", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-village-underground-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Mac Dougal St & Avenue Of The Americas", 
+                "city": "New York", 
+                "display_address": [
+                    "130 W 3rd St", 
+                    "SoHo", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "SoHo"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "130 W 3rd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.730621, 
+                    "longitude": -74.00093
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-whiskey-ward-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 232, 
+            "name": "The Whiskey Ward", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-whiskey-ward-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1452630623, 
+            "phone": "2124772998", 
+            "snippet_text": "The beer and shot combo alone makes this one of my favorite bars\n\nTheir \"shorty\" combo features a 1/2 pint of any draft including excellent options like...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/zbqH2d8vqvoZN4C4Qe5agg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/_wcwxYXQV3H9yBxszqc67Q/ms.jpg", 
+            "display_phone": "+1-212-477-2998", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-whiskey-ward-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Rivington St & Delancey St", 
+                "city": "New York", 
+                "display_address": [
+                    "121 Essex St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "121 Essex St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.719657, 
+                    "longitude": -73.987915
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/pegu-club-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 832, 
+            "name": "Pegu Club", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/pegu-club-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "menu_date_updated": 1441962277, 
+            "phone": "2124737348", 
+            "snippet_text": "Pegu Club gets its name and its cocktail concept from the late 1800s-era British Colonial Officers' Club located in Rangoon, Burma (modern-day Yangon,...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/qzYLN_qMC_FqJ96Ut7cpZg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/D2qsh04BG8kqvhuvvensuA/ms.jpg", 
+            "display_phone": "+1-212-473-7348", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "pegu-club-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Greene St & Bowery", 
+                "city": "New York", 
+                "display_address": [
+                    "77 W Houston St", 
+                    "SoHo", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "SoHo"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "77 W Houston St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7267361134291, 
+                    "longitude": -73.9996187388897
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/ward-iii-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 371, 
+            "name": "Ward III", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/ward-iii-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "menu_date_updated": 1452391865, 
+            "phone": "2122409194", 
+            "snippet_text": "Very cool spot for a cocktail in TriBeCa. Hand crafted with about a million (or so it seemed) types of booze and the craft masters know what they are doing....", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/jGinStkFLTdD1BGz81eGWw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/3nrlg4LHheAlM5NRS6YKWw/ms.jpg", 
+            "display_phone": "+1-212-240-9194", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "ward-iii-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Church St & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "111 Reade St", 
+                    "TriBeCa", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "TriBeCa"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "111 Reade St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7157247, 
+                    "longitude": -74.0087103
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/anotheroom-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 133, 
+            "name": "Anotheroom", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/anotheroom-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122261418", 
+            "snippet_text": "This place is tiny, so it's easy to miss, but in the midst of the greatest, most hustle-bustle city in the world, it has an amazing neighborhood charm...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/Ja7tZUkXXaq1qIdZMb4VvA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/I1TBi8MqX4uanVKn9P_D2w/ms.jpg", 
+            "display_phone": "+1-212-226-1418", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "anotheroom-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Beach St & Moore St", 
+                "city": "New York", 
+                "display_address": [
+                    "249 W Broadway", 
+                    "TriBeCa", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "TriBeCa"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "249 W Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7197516, 
+                    "longitude": -74.0056772
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/puck-fair-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 353, 
+            "name": "Puck Fair", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/puck-fair-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "Irish", 
+                    "irish"
+                ]
+            ], 
+            "menu_date_updated": 1452298520, 
+            "phone": "2124311200", 
+            "snippet_text": "A great place for some drinks and food. Being so close to NYU, I feel there's a good mix of people, between young and old. The bar itself has a great rustic...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/gWOPV4I-9gJk8LgpxyYcSw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/QTIMgtlQB7YASOJFDgVfrw/ms.jpg", 
+            "display_phone": "+1-212-431-1200", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "puck-fair-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Houston St & Jersey St", 
+                "city": "New York", 
+                "display_address": [
+                    "298 Lafayette St", 
+                    "SoHo", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "SoHo"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "298 Lafayette St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.724693, 
+                    "longitude": -73.995994
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-library-at-the-public-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 107, 
+            "name": "The Library at The Public", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-library-at-the-public-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Sandwiches", 
+                    "sandwiches"
+                ]
+            ], 
+            "menu_date_updated": 1442107010, 
+            "phone": "2125398777", 
+            "snippet_text": "** NYC Restaurant Week Summer 2015 Review ** \n\nWe arrived very early but they were nice enough to seat us anyways (I think this is a trend for us!). The...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/7yEKwi-iDZ3Yv33KDCbFdA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/nGEOHzntO69SklAf-Btlqw/ms.jpg", 
+            "display_phone": "+1-212-539-8777", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-library-at-the-public-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "4th St & Astor Pl", 
+                "city": "New York", 
+                "display_address": [
+                    "425 Lafayette St", 
+                    "NoHo", 
+                    "New York, NY 10003"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "NoHo", 
+                    "East Village"
+                ], 
+                "postal_code": "10003", 
+                "country_code": "US", 
+                "address": [
+                    "425 Lafayette St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7289556, 
+                    "longitude": -73.9920032
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/mothers-ruin-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 269, 
+            "name": "Mother's Ruin", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/mothers-ruin-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Breakfast & Brunch", 
+                    "breakfast_brunch"
+                ]
+            ], 
+            "phone": "2122190942", 
+            "snippet_text": "I've had this place bookmarked for awhile, and I kinda ended up on this block after having my plans fall through. I came in around 4pmish and the place was...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/tRBpuzHIdrqe_MrLTBAW-w/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/kpb3VaWTRCh2TUmvvyLoog/ms.jpg", 
+            "display_phone": "+1-212-219-0942", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "mothers-ruin-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Mott St & Elizabeth St", 
+                "city": "New York", 
+                "display_address": [
+                    "18 Spring St", 
+                    "Nolita", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Nolita"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "18 Spring St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.72126, 
+                    "longitude": -73.995033
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/toad-hall-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 66, 
+            "name": "Toad Hall", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/toad-hall-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "phone": "2124318145", 
+            "snippet_text": "Toad Hall was, in the words of Bart, \"better than expected\". But that's not quite a fair assessment. When wandering through Soho, annoyed by all...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/nBE6HgCr4K1pvDjH8CsRfw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/RMbch2zbYOBKbjW0SxEtvQ/ms.jpg", 
+            "display_phone": "+1-212-431-8145", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "toad-hall-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & Wooster St", 
+                "city": "New York", 
+                "display_address": [
+                    "57 Grand St", 
+                    "SoHo", 
+                    "New York, NY 10013"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "SoHo", 
+                    "TriBeCa"
+                ], 
+                "postal_code": "10013", 
+                "country_code": "US", 
+                "address": [
+                    "57 Grand St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.722114, 
+                    "longitude": -74.003608
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/madam-geneva-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 204, 
+            "name": "Madam Geneva", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/madam-geneva-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122540350", 
+            "snippet_text": "Understated exterior, and the bar is so crammed, but I always love the music here and it's perfect for dancing with a small group of friends.", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/oP-BOJDlMFEP9q2lgw06bw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/h13-VPa7zKglvN_0sJkd8g/ms.jpg", 
+            "display_phone": "+1-212-254-0350", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "madam-geneva-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Bowery & Elizabeth St", 
+                "city": "New York", 
+                "display_address": [
+                    "4 Bleecker St", 
+                    "NoHo", 
+                    "New York, NY 10012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "NoHo"
+                ], 
+                "postal_code": "10012", 
+                "country_code": "US", 
+                "address": [
+                    "4 Bleecker St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.72529, 
+                    "longitude": -73.99273
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

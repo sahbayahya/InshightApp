@@ -1,0 +1,1067 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.027503960000004213, 
+            "longitude_delta": 0.013380516085760519
+        }, 
+        "center": {
+            "latitude": 40.7814607, 
+            "longitude": -73.97714005276626
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/jazz-at-lincoln-center-the-appel-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 33, 
+            "name": "Jazz at Lincoln Center - The Appel Room", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/jazz-at-lincoln-center-the-appel-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ], 
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ], 
+                [
+                    "Performing Arts", 
+                    "theater"
+                ]
+            ], 
+            "phone": "2122589800", 
+            "snippet_text": "Amazing location, we came from Oakland, Ca to watch our neighbor play John Handy.. The setting was intimate and the view was was as spectacular as the Jazz....", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/ugmiG7apV0QDNDqYv_0r-w/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-212-258-9800", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "jazz-at-lincoln-center-the-appel-room-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "Jazz at Lincoln Center", 
+                    "33 W 60th St, Fl 11", 
+                    "Upper West Side", 
+                    "New York, NY 10023"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10023", 
+                "country_code": "US", 
+                "address": [
+                    "Jazz at Lincoln Center", 
+                    "33 W 60th St, Fl 11"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7692927122116, 
+                    "longitude": -73.9829286932945
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/vanguard-wine-bar-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 66, 
+            "name": "Vanguard Wine Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/vanguard-wine-bar-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "2127999463", 
+            "snippet_text": "Omgggggggggg this is bar. Walking in here is like the feeling you get when you watch You've Got Mail for the first time. \n\nAmazing selection of wines,...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/wBW9QQnPE38P2TsiBBjHHw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/J-QLzqX2btskvUFmUuC_XA/ms.jpg", 
+            "display_phone": "+1-212-799-9463", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "vanguard-wine-bar-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "68th St & 69th St", 
+                "city": "New York", 
+                "display_address": [
+                    "189 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10023"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10023", 
+                "country_code": "US", 
+                "address": [
+                    "189 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.776280321841, 
+                    "longitude": -73.9832221055325
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/vino-levantino-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 116, 
+            "name": "Vino Levantino", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/vino-levantino-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/fp8X7ERa-0Ot_QD36I4ghw/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Mediterranean", 
+                    "mediterranean"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Breakfast & Brunch", 
+                    "breakfast_brunch"
+                ]
+            ], 
+            "menu_date_updated": 1442200879, 
+            "phone": "2122803333", 
+            "snippet_text": "Wondering home from a friend's house near 103rd, I had done some online research for a place with excellent tuna tartare (as I am kind of an addict). Vino...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/mWKeY49FKRGqHsL_f3dQPA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/Cus9MPwhDqojPa3F8H2mug/ms.jpg", 
+            "display_phone": "+1-212-280-3333", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "vino-levantino-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Amsterdam Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "210 W 94th St", 
+                    "Upper West Side", 
+                    "New York, NY 10025"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10025", 
+                "country_code": "US", 
+                "address": [
+                    "210 W 94th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7929478710728, 
+                    "longitude": -73.9720784291819
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/es-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 123, 
+            "name": "E's Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/es-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1442205412, 
+            "phone": "2128770961", 
+            "snippet_text": "I would say this is the perfect combination of a dive crossed with a trendy bar.  It's super laid back and perfect to go with a group of friends to take...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/7VG14YJcRlZmE6kmMnxQWA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/MTdjT4wTNVTxbH5Zp8pSVw/ms.jpg", 
+            "display_phone": "+1-212-877-0961", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "es-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "84th St & 85th St", 
+                "city": "New York", 
+                "display_address": [
+                    "511 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "511 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.786692073145, 
+                    "longitude": -73.9755653589964
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/joes-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 61, 
+            "name": "Joe's", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/joes-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Burgers", 
+                    "burgers"
+                ], 
+                [
+                    "Beer Bar", 
+                    "beerbar"
+                ]
+            ], 
+            "phone": "6469186510", 
+            "snippet_text": "Really clean, cozy place with a great beer selection (sour!), fun food menu (cake!) and good music. We've been here a few times and will likely be...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/zv8Ad-SvoTDesoGssZebiw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/7hwS6T_ZifkIK12n1_I-NA/ms.jpg", 
+            "display_phone": "+1-646-918-6510", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "joes-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "84th St & 83rd St", 
+                "city": "New York", 
+                "display_address": [
+                    "480 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "480 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.785961, 
+                    "longitude": -73.976669
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/manhattan-cricket-club-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 57, 
+            "name": "Manhattan Cricket Club", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/manhattan-cricket-club-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "6468239252", 
+            "snippet_text": "If you ever want to impress someone with a spectacular atmosphere and delicious drinks, take them to Manhattan Cricket Club. My boyfriend introduced me to...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/1pczxP4-_K87kY-FbQCWDQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/xbJQ9rHRoEQtWxS0mxjHsA/ms.jpg", 
+            "display_phone": "+1-646-823-9252", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "manhattan-cricket-club-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Amsterdam Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "226 W 79th St", 
+                    "Level 2", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "226 W 79th St", 
+                    "Level 2"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7833619, 
+                    "longitude": -73.979579
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-milling-room-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 92, 
+            "name": "The Milling Room", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-milling-room-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/PnGSE8JGbMZKtdHi9go7Kg/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Desserts", 
+                    "desserts"
+                ]
+            ], 
+            "menu_date_updated": 1452603026, 
+            "phone": "2125950380", 
+            "snippet_text": "Scott Bryan makes fine dining accessible and delicious at The Milling Room. We had a reservation, but for a Sunday night in November, this didn't seem to be...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/GVCtyRxuU251l52Lr7LYTg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/wOsAoVIdn8senP24vYZAMA/ms.jpg", 
+            "display_phone": "+1-212-595-0380", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-milling-room-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "81st St & 82nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "446 Columbus Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "446 Columbus Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7835419476032, 
+                    "longitude": -73.9743952453136
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "rating": 4.0, 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "display_phone": "+1-212-875-1400", 
+            "id": "savoury-indian-restaurant-and-wine-bar-new-york", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/30808?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi", 
+            "mobile_url": "http://m.yelp.com/biz/savoury-indian-restaurant-and-wine-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "review_count": 51, 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/8E06frjjccuNsTdsdijICg/ms.jpg", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/tnsH7GKxxvpG1sPbv9lyhg/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "83rd St & 84th St", 
+                "city": "New York", 
+                "display_address": [
+                    "489 Columbus Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "489 Columbus Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.784756, 
+                    "longitude": -73.973009
+                }, 
+                "state_code": "NY"
+            }, 
+            "is_claimed": true, 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "phone": "2128751400", 
+            "snippet_text": "Food was really good, tasted very well. Staff of the restaurant was also nice. Portions could be a bit bigger, thats why 4/5.\n\nTry the homemade bread with...", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "categories": [
+                [
+                    "Indian", 
+                    "indpak"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "name": "Savoury Indian Restaurant & Wine Bar", 
+            "url": "http://www.yelp.com/biz/savoury-indian-restaurant-and-wine-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/L4asYTNyh2c7ZdXdHd00fA/ms.jpg", 
+            "menu_provider": "eat24", 
+            "menu_date_updated": 1452256842
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/george-keeley-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 248, 
+            "name": "George Keeley", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/george-keeley-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ], 
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ]
+            ], 
+            "phone": "2128730251", 
+            "snippet_text": "Whoever this George Keeley is, he has an impressive taste in beer because his tap selection is top notch. Having both Grimm and Evil Twin on tap? Hell yeah!...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/I5_2y2MzET5geTbNjR-9WA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/wn6WaALqw5zVLSmVx1sesA/ms.jpg", 
+            "display_phone": "+1-212-873-0251", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "george-keeley-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "84th St & 83rd St", 
+                "city": "New York", 
+                "display_address": [
+                    "485 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "485 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.785831451416, 
+                    "longitude": -73.9759674072266
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/bar-thalia-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 22, 
+            "name": "Bar Thalia", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/bar-thalia-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "6465977340", 
+            "snippet_text": "On my visit to NY, I stumbled upon this little spot. It's attached to Symphony Space. My travel buddy and I walked up to check it out and found the door to...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/_sCTO3oleTXNCxY0eseI-A/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/4Ml-8BwX-1BWs3BWOdi77Q/ms.jpg", 
+            "display_phone": "+1-646-597-7340", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "bar-thalia-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "93rd St & 94th St", 
+                "city": "New York", 
+                "display_address": [
+                    "2537 Broadway", 
+                    "Upper West Side", 
+                    "New York, NY 10025"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10025", 
+                "country_code": "US", 
+                "address": [
+                    "2537 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7939301, 
+                    "longitude": -73.9728928
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/shalel-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 402, 
+            "name": "Shalel Lounge", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/shalel-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Moroccan", 
+                    "moroccan"
+                ]
+            ], 
+            "menu_date_updated": 1442355985, 
+            "phone": "2128732300", 
+            "snippet_text": "I've been to Shalel a bunch of times and I love it.  Just walking down the stairs you feel like you're going into some secret, cool place. \n\nInside there...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/H0r-C8K6-Y9ZYvsUYtTKEw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/4HYfx7WBdoSq5x5pQiLn5Q/ms.jpg", 
+            "display_phone": "+1-212-873-2300", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "shalel-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "W Central Park & Columbus Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "65 W 70th St", 
+                    "Upper West Side", 
+                    "New York, NY 10023"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10023", 
+                "country_code": "US", 
+                "address": [
+                    "65 W 70th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7760977, 
+                    "longitude": -73.9793291
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/whispers-restaurant-bar-and-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 27, 
+            "name": "Whispers Restaurant, Bar & Lounge", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/whispers-restaurant-bar-and-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/x_u7DTvA4ypDBrPvVNx1CQ/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "phone": "6468643618", 
+            "snippet_text": "I was turned on to this place by a friend. Had the opportunity to meet the owner who is magnetic and welcoming. I went back for wild wings wednesdays with...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/4E6UUnMTz7773aHd_3w3CQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-646-864-3618", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "whispers-restaurant-bar-and-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Amsterdam Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "210 W 94th St", 
+                    "Upper West Side", 
+                    "New York, NY 10025"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10025", 
+                "country_code": "US", 
+                "address": [
+                    "210 W 94th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7933013456452, 
+                    "longitude": -73.9722406754357
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/barcibo-enoteca-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 223, 
+            "name": "Barcibo Enoteca", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/barcibo-enoteca-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "menu_date_updated": 1452343457, 
+            "phone": "2125952805", 
+            "snippet_text": "Love his place! Delicious food and awesome happy hour deal from 4:30-6:30! Half priced wines! The crostinis are my go-to, so yummy! Will definitely be...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/vHc7G5PnzGbDgRSLXcVRTg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/0s-ijsM5Fopu8xAUzGe4Qg/ms.jpg", 
+            "display_phone": "+1-212-595-2805", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "barcibo-enoteca-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "69th St & 70th St", 
+                "city": "New York", 
+                "display_address": [
+                    "2020 Broadway", 
+                    "Upper West Side", 
+                    "New York, NY 10023"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10023", 
+                "country_code": "US", 
+                "address": [
+                    "2020 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.776375, 
+                    "longitude": -73.9817039
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/mandarin-oriental-lobby-lounge-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 197, 
+            "name": "Mandarin Oriental Lobby Lounge", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/mandarin-oriental-lobby-lounge-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "menu_date_updated": 1441964884, 
+            "phone": "2128058800", 
+            "snippet_text": "Luxe // Spectacular View\nService with a Smile\n\nModern with oriental inspiration, this lounge consistently delivers quality and excellent service over the...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/mOnMjedJ-NIdlfM6s2wChw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/4pmCovemu7t0AjKuG3JteQ/ms.jpg", 
+            "display_phone": "+1-212-805-8800", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "mandarin-oriental-lobby-lounge-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "80 Columbus Cir at 60th St", 
+                    "Upper West Side", 
+                    "New York, NY 10023"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10023", 
+                "country_code": "US", 
+                "address": [
+                    "80 Columbus Cir at 60th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7690784, 
+                    "longitude": -73.9829538
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/buceo-95-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 313, 
+            "name": "Buceo 95", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/buceo-95-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Tapas Bars", 
+                    "tapas"
+                ], 
+                [
+                    "Spanish", 
+                    "spanish"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "2126627010", 
+            "snippet_text": "After a day of work on a Wednesday, I had a taste for red wine and pork belly. As I was in a  clothing store near my job I logged on to yelp and allowed...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/z5EDzSsotsokRZKJhOAvSA/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/3n_KYnZhwR0rd83CYTLVGg/ms.jpg", 
+            "display_phone": "+1-212-662-7010", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "buceo-95-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Amsterdam Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "201 W 95th St", 
+                    "Upper West Side", 
+                    "New York, NY 10025"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10025", 
+                "country_code": "US", 
+                "address": [
+                    "201 W 95th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.793571, 
+                    "longitude": -73.971058
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-dead-poet-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 267, 
+            "name": "The Dead Poet", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-dead-poet-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1442259527, 
+            "phone": "2125955670", 
+            "snippet_text": "Wow. We were in the upper west side after leaving e's bar, which i am not a fan of. My sister hits the trusty yelp app out and bam it was between this place...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/cA_BRxT3Qf43QcJNowvG7A/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/wK9M5tknn5y5yPM05aSuww/ms.jpg", 
+            "display_phone": "+1-212-595-5670", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-dead-poet-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "81st St & 82nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "450 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "450 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.784992, 
+                    "longitude": -73.977348
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/b-cafe-west-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 237, 
+            "name": "B. Cafe West", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/b-cafe-west-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Belgian", 
+                    "belgian"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1442027216, 
+            "phone": "2128730003", 
+            "snippet_text": "So nice! \nBrunch on the sidewalk, nice staff excellent service and fantastic mussels Belgian style and some other smart and tasty variations. \nWe had the...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/OtbSNCVT6kI06Da9VI02Xw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/ERLzmuwgi-Mj_7WxUNuXPw/ms.jpg", 
+            "display_phone": "+1-212-873-0003", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "b-cafe-west-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "88th St & 87th St", 
+                "city": "New York", 
+                "display_address": [
+                    "566 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "566 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.78875, 
+                    "longitude": -73.97464
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/locl-bar-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 13, 
+            "name": "LOCL Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/locl-bar-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2123621100", 
+            "snippet_text": "If you want a bar to actually relax at and be able to hold a conversation without shouting then this is the place to go. Great environment, friendly bar...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/gvfJz92ixfCOr0jd4ByhtQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/mAKqUrAMjSokwqNLCnXb9A/ms.jpg", 
+            "display_phone": "+1-212-362-1100", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "locl-bar-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "NYLO New York City", 
+                    "2178 Broadway", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "NYLO New York City", 
+                    "2178 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7821270933307, 
+                    "longitude": -73.9802539926003
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/tangled-vine-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 217, 
+            "name": "Tangled Vine", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/tangled-vine-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Mediterranean", 
+                    "mediterranean"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "menu_date_updated": 1442068431, 
+            "phone": "6468633896", 
+            "snippet_text": "Came here for brunch with my sister on a Sunday afternoon.\n\n$19 for an entree and unlimited drinks (bloody mary, mimosa or bellini). enough said.", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/jt3vL0WaGCEjOxPln0hr7A/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/sahLe-V_jdWYNfOBg-yFRg/ms.jpg", 
+            "display_phone": "+1-646-863-3896", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "tangled-vine-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "80th St & 81st St", 
+                "city": "New York", 
+                "display_address": [
+                    "434 Amsterdam Ave", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "434 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.784461, 
+                    "longitude": -73.977643
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/blondies-sports-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 327, 
+            "name": "Blondies Sports", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/blondies-sports-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ]
+            ], 
+            "phone": "2123623311", 
+            "snippet_text": "I liked the place.  I am not a big sports bar fan.  But we reserved a table for the Jets game and were seated promptly with a tv right above the table.  The...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/U-Tlr4ezcbajAvf9SMJ_dA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/hmfCuFmBiWqGxoljaZnEdA/ms.jpg", 
+            "display_phone": "+1-212-362-3311", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "blondies-sports-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Amsterdam Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "212 W 79th St", 
+                    "Upper West Side", 
+                    "New York, NY 10024"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Upper West Side"
+                ], 
+                "postal_code": "10024", 
+                "country_code": "US", 
+                "address": [
+                    "212 W 79th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7832069396973, 
+                    "longitude": -73.9791946411133
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

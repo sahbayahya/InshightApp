@@ -1,0 +1,404 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.12311045999999948, 
+            "longitude_delta": 0.369438630000019
+        }, 
+        "center": {
+            "latitude": 30.0198136, 
+            "longitude": -90.66185635
+        }
+    }, 
+    "total": 9, 
+    "businesses": [
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/nobiles-restaurant-and-bar-lutcher?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 10, 
+            "name": "Nobile's Restaurant and Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/nobiles-restaurant-and-bar-lutcher?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "phone": "2258698900", 
+            "snippet_text": "Don't let the outside fool you--this place is a true gem! It's one of those restaurants you could easily drive right by; but once you stop in, you'll never...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/26QO_QQsfZRZQZTgHZVMDw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-225-869-8900", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "nobiles-restaurant-and-bar-lutcher", 
+            "is_closed": false, 
+            "location": {
+                "city": "Lutcher", 
+                "display_address": [
+                    "2082 W Main St", 
+                    "Lutcher, LA 70071"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70071", 
+                "country_code": "US", 
+                "address": [
+                    "2082 W Main St"
+                ], 
+                "coordinate": {
+                    "latitude": 30.04097, 
+                    "longitude": -90.69861
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/jimmys-place-convent?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 1, 
+            "name": "Jimmy's Place", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/jimmys-place-convent?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Nightlife", 
+                    "nightlife"
+                ]
+            ], 
+            "phone": "2255627244", 
+            "snippet_text": "Tastes like your momma made it! Everything is seasoned the cajun way, great place to get to-go orders from, although I have to suggest if you are ordering...", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/bqVgFfTOYvLMwTM3Je5ECg/ms.jpg", 
+            "display_phone": "+1-225-562-7244", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "jimmys-place-convent", 
+            "is_closed": false, 
+            "location": {
+                "city": "Convent", 
+                "display_address": [
+                    "6822 La 44", 
+                    "Convent, LA 70723"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70723", 
+                "country_code": "US", 
+                "address": [
+                    "6822 La 44"
+                ], 
+                "coordinate": {
+                    "latitude": 30.02085, 
+                    "longitude": -90.82977
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/hammerheads-bar-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 1, 
+            "name": "Hammerhead's Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/hammerheads-bar-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Nightlife", 
+                    "nightlife"
+                ]
+            ], 
+            "phone": "9856520566", 
+            "snippet_text": "The caption on the photo is right; VERY \"It's always sunny\" vibe. Eclectic crowd; you never really know what will be going on, unless it's game day. That's...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/2MrkK9niWGCUNau0OFJrRw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/2CCaCK4FHTVMgKWq6JM0gQ/ms.jpg", 
+            "display_phone": "+1-985-652-0566", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "hammerheads-bar-la-place", 
+            "is_closed": false, 
+            "location": {
+                "city": "La Place", 
+                "display_address": [
+                    "1421 W Airline Hwy", 
+                    "La Place, LA 70068"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70068", 
+                "country_code": "US", 
+                "address": [
+                    "1421 W Airline Hwy"
+                ], 
+                "coordinate": {
+                    "latitude": 30.0716743469238, 
+                    "longitude": -90.4948883056641
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/do-dos-paulina?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1, 
+            "name": "Do-Do's", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/do-dos-paulina?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ]
+            ], 
+            "phone": "2258699970", 
+            "snippet_text": "Dive Bar on River Road. \nYou'd pass it and never notice it. \nThat is until now because I am THE FIRST TO REVIEW - DO-DO's.\n\nSmokey, dirty and down...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/17F0vnXixGHNpwpvJ97uYw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/DrWmUstLRtgkXKO6ia8oCg/ms.jpg", 
+            "display_phone": "+1-225-869-9970", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "do-dos-paulina", 
+            "is_closed": false, 
+            "location": {
+                "city": "Paulina", 
+                "display_address": [
+                    "2288 La 44", 
+                    "Paulina, LA 70763"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70763", 
+                "country_code": "US", 
+                "address": [
+                    "2288 La 44"
+                ], 
+                "coordinate": {
+                    "latitude": 30.0328979492188, 
+                    "longitude": -90.7032165527344
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/3-l-js-laplace-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1, 
+            "name": "3 L J's", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/3-l-js-laplace-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ], 
+                [
+                    "Cafes", 
+                    "cafes"
+                ]
+            ], 
+            "phone": "9853590380", 
+            "snippet_text": "Well what can I say but... YUM YUM YUM YUM YUMMMMMMMMMY!!!!! Eating soul-food is all of what I miss after church service... BUT NOW I'VE FOUND IT!!!!  Right...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/--GUHgy4zlx5E1DXhuE-lQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/d4uznr5bLdT5RiH5wBwqTw/ms.jpg", 
+            "display_phone": "+1-985-359-0380", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "3-l-js-laplace-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Laplace", 
+                "display_address": [
+                    "150 Belle Terre Blvd", 
+                    "Laplace, LA 70068"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70068", 
+                "country_code": "US", 
+                "address": [
+                    "150 Belle Terre Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 30.07558, 
+                    "longitude": -90.50021
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/new-orleans-original-daiquiris-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1, 
+            "name": "New Orleans Original Daiquiris", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/new-orleans-original-daiquiris-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "9856523892", 
+            "snippet_text": "Love the drive thru... Although you're NOT supposed to drink & drive, which I don't.  I do like the availability of purchasing a drink without having to...", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/d4uznr5bLdT5RiH5wBwqTw/ms.jpg", 
+            "display_phone": "+1-985-652-3892", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "new-orleans-original-daiquiris-la-place", 
+            "is_closed": false, 
+            "location": {
+                "city": "La Place", 
+                "display_address": [
+                    "1819 W Airline Hwy", 
+                    "La Place, LA 70068"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70068", 
+                "country_code": "US", 
+                "address": [
+                    "1819 W Airline Hwy"
+                ], 
+                "coordinate": {
+                    "latitude": 30.07333, 
+                    "longitude": -90.50157
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/daiquiri-explosion-vacherie?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 3, 
+            "name": "Daiquiri Explosion", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/daiquiri-explosion-vacherie?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Nightlife", 
+                    "nightlife"
+                ]
+            ], 
+            "phone": "2252657200", 
+            "snippet_text": "Some of the world's best daiquiris as proven by extensive government research on the topic. \n\nMy current favorite is the notorious Blue Explosion which...", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/WNwp_fr2fwKvGoJfEeMVhw/ms.jpg", 
+            "display_phone": "+1-225-265-7200", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "daiquiri-explosion-vacherie", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vacherie", 
+                "display_address": [
+                    "22204 Highway 20", 
+                    "Vacherie, LA 70090"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70090", 
+                "country_code": "US", 
+                "address": [
+                    "22204 Highway 20"
+                ], 
+                "coordinate": {
+                    "latitude": 29.96387, 
+                    "longitude": -90.71386
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/plantation-pub-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 1, 
+            "name": "Plantation Pub", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/plantation-pub-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Nightlife", 
+                    "nightlife"
+                ]
+            ], 
+            "phone": "9856524412", 
+            "snippet_text": "Little dive bar.  This place is just a old school joint with not much to offer to anyone that does not know everyone in the bar already.", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/iIiSHK0rg2coWZPB4WyfEg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/MfDvm220GAdoen3dKgklYA/ms.jpg", 
+            "display_phone": "+1-985-652-4412", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "plantation-pub-la-place", 
+            "is_closed": false, 
+            "location": {
+                "city": "La Place", 
+                "display_address": [
+                    "107C Carrollwood Dr", 
+                    "La Place, LA 70068"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70068", 
+                "country_code": "US", 
+                "address": [
+                    "107C Carrollwood Dr"
+                ], 
+                "coordinate": {
+                    "latitude": 30.0727706, 
+                    "longitude": -90.4963949
+                }, 
+                "state_code": "LA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 2.5, 
+            "mobile_url": "http://m.yelp.com/biz/chilis-grill-and-bar-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png", 
+            "review_count": 11, 
+            "name": "Chili's Grill & Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png", 
+            "url": "http://www.yelp.com/biz/chilis-grill-and-bar-la-place?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Tex-Mex", 
+                    "tex-mex"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1452399324, 
+            "phone": "9856521227", 
+            "snippet_text": "I like Chili's for their crispy chicken crispers and blackberry iced tea, which I usually order every time I visit. In terms of quality of food, I like this...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/FfE4PJH0or9lXab3FOgEvw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/BWJPcwgUJsX97yagdhdzDA/ms.jpg", 
+            "display_phone": "+1-985-652-1227", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "chilis-grill-and-bar-la-place", 
+            "is_closed": false, 
+            "location": {
+                "city": "La Place", 
+                "display_address": [
+                    "1820 W Airline Hwy", 
+                    "La Place, LA 70068"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "70068", 
+                "country_code": "US", 
+                "address": [
+                    "1820 W Airline Hwy"
+                ], 
+                "coordinate": {
+                    "latitude": 30.0742015838623, 
+                    "longitude": -90.5017471313477
+                }, 
+                "state_code": "LA"
+            }
+        }
+    ]
+}

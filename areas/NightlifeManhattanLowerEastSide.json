@@ -1,0 +1,1036 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.009100410000002057, 
+            "longitude_delta": 0.012229448471885007
+        }, 
+        "center": {
+            "latitude": 40.71824545, 
+            "longitude": -73.98767944021449
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/la-contenta-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 145, 
+            "name": "La Contenta", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/la-contenta-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Breakfast & Brunch", 
+                    "breakfast_brunch"
+                ]
+            ], 
+            "menu_date_updated": 1442230948, 
+            "phone": "2124324180", 
+            "snippet_text": "This was my second time visiting La Contenta, the first was with a friend who recommended it as the best spot for Mexican cuisine. \n\nFood: Amazingly...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/QWnvHDwfo-fa2Z3hPBwxjw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/cbMvuyN2Yd_ViUe3HlUK-g/ms.jpg", 
+            "display_phone": "+1-212-432-4180", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "menu_provider": "single_platform", 
+            "id": "la-contenta-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Rivington St & Delancey St", 
+                "city": "New York", 
+                "display_address": [
+                    "102 Norfolk St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "102 Norfolk St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.71873, 
+                    "longitude": -73.986907
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/old-man-hustle-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 101, 
+            "name": "Old Man Hustle", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/old-man-hustle-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ], 
+                [
+                    "Comedy Clubs", 
+                    "comedyclubs"
+                ]
+            ], 
+            "phone": "2122537747", 
+            "snippet_text": "Found this bar randomly. Now it's my favorite bar period. Bartenders are all awesome!!!! (Jared and Max specifically) the rest are great too. \n\nThey have...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/xmrrmVirKmzV7oYE3MeQxA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-212-253-7747", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "old-man-hustle-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Hester St & Grand St", 
+                "city": "New York", 
+                "display_address": [
+                    "39 Essex St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "39 Essex St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7159819101673, 
+                    "longitude": -73.9893277618757
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/copper-and-oak-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 43, 
+            "name": "Copper & Oak", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/copper-and-oak-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "snippet_text": "This is the most treasured room in Ron Swanson's heaven.\n\nThere is no better way to describe Cooper & Oak than \"Whisk(e)y Shrine\". Honorable mentions go to...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/BnKXTOwVG_y8epUP3rDESw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/JnV-c8ziIpzIvqczok_tzQ/ms.jpg", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "copper-and-oak-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "157 Allen St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "157 Allen St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.721061, 
+                    "longitude": -73.989862
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/nitecap-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 121, 
+            "name": "Nitecap", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/nitecap-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2124663361", 
+            "snippet_text": "This place is a great intimate bar for 3-4 friends.\n\nDespite the name of the bar, we started off at this bar on Halloween night. I have had the best drink I...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/elnn3CbftAqPFkIeKdL3SA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/gGMci4Xb3uBLsuL1IyxgIg/ms.jpg", 
+            "display_phone": "+1-212-466-3361", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "nitecap-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Norfolk St & Essex St", 
+                "city": "New York", 
+                "display_address": [
+                    "120 Rivington St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "120 Rivington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7198798885159, 
+                    "longitude": -73.9873507122652
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/sunita-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 118, 
+            "name": "Sunita Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/sunita-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122538860", 
+            "snippet_text": "I never say this, but this bar is PERFECT!  The owner/bartender/welcoming host Sunita is so friendly and a great conversationalist.  She has a fascinating...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/mz7ve18gdnj42bJ14QmNnw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/wunTdoUzj1lMr_A2ZyzgLg/ms.jpg", 
+            "display_phone": "+1-212-253-8860", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "sunita-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Rivington St & Delancey St", 
+                "city": "New York", 
+                "display_address": [
+                    "106 Norfolk St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "106 Norfolk St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.718819, 
+                    "longitude": -73.986862
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/clockwork-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 28, 
+            "name": "Clockwork Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/clockwork-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ]
+            ], 
+            "phone": "2126774545", 
+            "snippet_text": "Give me a dive at times, but I will always take a great dive everyday. There are just certain reasons one goes to a dive. Clockwork has it all. Great...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/Jo7lCN2wdL_jwvDK4JnQKQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/TfUQ5J0rgkwVlCw6JLOgDg/ms.jpg", 
+            "display_phone": "+1-212-677-4545", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "clockwork-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Canal St. and Hester St St", 
+                "city": "New York", 
+                "display_address": [
+                    "21 Essex St", 
+                    "Chinatown", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Chinatown", 
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "21 Essex St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.715394, 
+                    "longitude": -73.990103
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/attaboy-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 243, 
+            "name": "Attaboy", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/attaboy-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "snippet_text": "Wrote a review once and gonna write an update. \n\nDon't make a mistake and pass this place up! It's amazing. Best classic bartenders around.", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/UKig4GxGlV7Dns8LbJF7wA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/NpiCcJcR-jPULDCzrnv9hg/ms.jpg", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "attaboy-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broome St & Delancey St", 
+                "city": "New York", 
+                "display_address": [
+                    "134 Eldridge St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "134 Eldridge St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7188874, 
+                    "longitude": -73.9913351
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/subject-new-york-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 86, 
+            "name": "Subject", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/subject-new-york-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "6464227898", 
+            "snippet_text": "I came to Subject after a dinner around the corner at Gaia. What I really enjoyed that the location is fairly sequestered from the heart of LES, and that...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/L9UNgApDvqphWlipKG-pBw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/8ETkeHl6nVB051t_Wj8kGw/ms.jpg", 
+            "display_phone": "+1-646-422-7898", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "subject-new-york-4", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Houston St & Stanton St", 
+                "city": "New York", 
+                "display_address": [
+                    "188 Suffolk St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "188 Suffolk St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.721537, 
+                    "longitude": -73.984779
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/bonnie-vee-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 58, 
+            "name": "Bonnie Vee", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/bonnie-vee-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "9176393352", 
+            "snippet_text": "Went back the other week and sat outside in the back garden. It was a lovely and nice surprise to sit outside on a warm night.\n\nThis bar keeps getting...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/hYjA0oUP7uaQCqCyajh1lQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/NnsGqXyXouhtpxPpAHrNxg/ms.jpg", 
+            "display_phone": "+1-917-639-3352", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "bonnie-vee-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Bowery & Chrystie St", 
+                "city": "New York", 
+                "display_address": [
+                    "17 Stanton St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "17 Stanton St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.722401, 
+                    "longitude": -73.992149
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/eastwood-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 78, 
+            "name": "Eastwood", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/eastwood-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "phone": "2122330124", 
+            "snippet_text": "Love love love this brunch spot. It's hidden in a less developed area between chinatown and lower east side. there's no official name on top except for a...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/UnOYH3ZfaDoyGDB-EAiFvA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/TgAMn5mAxww3QyR8owLkGQ/ms.jpg", 
+            "display_phone": "+1-212-233-0124", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "eastwood-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Clinton St & Montgomery St", 
+                "city": "New York", 
+                "display_address": [
+                    "221 E Broadway", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "221 E Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7141089, 
+                    "longitude": -73.9870185
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/ost-cafe-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 18, 
+            "name": "Ost Cafe", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/ost-cafe-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Coffee & Tea", 
+                    "coffee"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "snippet_text": "Another brilliant addition to my hood!\n\nThis place is absolutely adorable. The decor is warm and the exposed brick is a nice touch. There's always, ALWAYS...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/Y5QJhgKIgNEBB3VnxiLgRQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/S7M-Ej2Gd3zPq4Aa_L9IAg/ms.jpg", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "ost-cafe-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & Abraham Kazan St", 
+                "city": "New York", 
+                "display_address": [
+                    "511 Grand St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "511 Grand St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.714443, 
+                    "longitude": -73.982154
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/fig-19-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 132, 
+            "name": "Fig 19", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/fig-19-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "snippet_text": "Came here late-night on my birthday as a final stop, with the remaining crowd of our group of friends. This place is a hidden gem, and I hope it stays that...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/BDWoOlPU-wdS3pwOxSH4eg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/Afwbijt-M8p-V_-74p3X7w/ms.jpg", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "fig-19-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "131 1/2 Chrystie St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "131 1/2 Chrystie St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.719555215168, 
+                    "longitude": -73.993238280429
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/ghost-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 58, 
+            "name": "Ghost", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/ghost-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2127758390", 
+            "snippet_text": "I found this place on Yelp, and I wanted to come check it out. If you check in, you get a 50% discount on your first cocktail. The options seemed pretty...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/MUJ0x2ClKHzUDOmFlGrSpw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/FalYi_IcNw5Pu6791rInQw/ms.jpg", 
+            "display_phone": "+1-212-775-8390", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "ghost-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broome St & Delancey St", 
+                "city": "New York", 
+                "display_address": [
+                    "132A Eldridge St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "132A Eldridge St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7187881, 
+                    "longitude": -73.9914474
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/clandestino-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 88, 
+            "name": "Clandestino", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/clandestino-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "2124755505", 
+            "snippet_text": "Generally a quiet bar but gets to be more fun later at night. Drinks are reasonably priced, great music (aka not top 40). Quiet enough to talk but lively...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/yGQIBIIMDBcp27BfRcViVg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Sr2t639iZgADEfL76kaslg/ms.jpg", 
+            "display_phone": "+1-212-475-5505", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "clandestino-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Division St & Rutgers St", 
+                "city": "New York", 
+                "display_address": [
+                    "35 Canal St", 
+                    "Chinatown", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Chinatown", 
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "35 Canal St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7147598, 
+                    "longitude": -73.9908524
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/botanic-lab-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 27, 
+            "name": "Botanic Lab", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/botanic-lab-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "6462704140", 
+            "snippet_text": "This is one of those places that I'm hesitant to write a review about, because I'd really really like to keep it a secret. That said, this place has been...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/0PCChoc_a6lwOISVzey1Vg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/JnV-c8ziIpzIvqczok_tzQ/ms.jpg", 
+            "display_phone": "+1-646-270-4140", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "botanic-lab-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broome St & Grand St", 
+                "city": "New York", 
+                "display_address": [
+                    "86 Orchard St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "86 Orchard St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7179602, 
+                    "longitude": -73.9902328
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-whiskey-ward-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 232, 
+            "name": "The Whiskey Ward", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-whiskey-ward-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1452630623, 
+            "phone": "2124772998", 
+            "snippet_text": "The beer and shot combo alone makes this one of my favorite bars\n\nTheir \"shorty\" combo features a 1/2 pint of any draft including excellent options like...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/zbqH2d8vqvoZN4C4Qe5agg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/_wcwxYXQV3H9yBxszqc67Q/ms.jpg", 
+            "display_phone": "+1-212-477-2998", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-whiskey-ward-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Rivington St & Delancey St", 
+                "city": "New York", 
+                "display_address": [
+                    "121 Essex St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "121 Essex St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.719657, 
+                    "longitude": -73.987915
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/marshall-stack-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 202, 
+            "name": "Marshall Stack", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/marshall-stack-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2122284667", 
+            "snippet_text": "My group and I went to see a show up the block at Rockwood Music Hall.   On the way out, I asked one of the bouncers where we could eat and he insisted we...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/PRhVCBwboxstx8mR5tmbEQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/_yScoFK60wI18Qup7gtTxA/ms.jpg", 
+            "display_phone": "+1-212-228-4667", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "marshall-stack-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Allen St & Eldridge St", 
+                "city": "New York", 
+                "display_address": [
+                    "66 Rivington St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "66 Rivington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.720737, 
+                    "longitude": -73.989944
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/151-new-york-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 18, 
+            "name": "151", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/151-new-york-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6464904339", 
+            "snippet_text": "Love it! It's an unpretentious basement space with low ceilings and wooden decor. It reminded me a little of the Holiday Cocktail Bar but was a little...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/k5VsDA3Lq6mCln_ZECO_rw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/JQiVdb1teWsZChDt6UtVUA/ms.jpg", 
+            "display_phone": "+1-646-490-4339", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "151-new-york-5", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Clinton St & Suffolk St", 
+                "city": "New York", 
+                "display_address": [
+                    "151 Rivington St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "151 Rivington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.719139, 
+                    "longitude": -73.98574
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/parkside-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 138, 
+            "name": "Parkside Lounge", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/parkside-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "deals": [
+                {
+                    "is_popular": true, 
+                    "what_you_get": "You get a voucher redeemable for $250 at Parkside Lounge.\nPrint out your voucher, or redeem on your phone with the <a href=\"http://www.yelp.com/mobile?source=deal_marketing\">Yelp app</a>.", 
+                    "time_start": 1405461821, 
+                    "title": "$200 for $250", 
+                    "url": "http://www.yelp.com/deals/parkside-lounge-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+                    "additional_restrictions": "Promotion lasts for 1 year from date of purchase. After that period, your voucher is redeemable for the amount you paid, less any value you may have received. Not valid with other vouchers, certificates, or offers. Only 1 voucher(s) can be purchased and redeemed per person. Up to 5 can be purchased as gifts for others. Subject to the <a target=\"_blank\" href=\"http://www.yelp.com/tos/general_b2c_us_20120911\">General Terms</a>.", 
+                    "options": [
+                        {
+                            "original_price": 25000, 
+                            "title": "$200 for $250", 
+                            "price": 20000, 
+                            "purchase_url": "https://www.yelp.com/checkout/deal/uDiE_WSdg9EucYTSVJBS8Q?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+                            "formatted_original_price": "$250", 
+                            "formatted_price": "$200", 
+                            "is_quantity_limited": false
+                        }
+                    ], 
+                    "image_url": "http://s3-media4.fl.yelpcdn.com/dphoto/4CYK9kAkI6DiiQMpz4w1qA/m.jpg", 
+                    "id": "OIf9wCjZ1StYLzYE0dGXTA", 
+                    "currency_code": "USD"
+                }
+            ], 
+            "phone": "2126736270", 
+            "snippet_text": "You can order food here at 3am on the first day of the year. The people are international and chill. Its LES rocking with the best. A place that make you...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/WD175tNMDX3Es038USOTtw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/yXgj-yy5advxPoYIPJEUMg/ms.jpg", 
+            "display_phone": "+1-212-673-6270", 
+            "gift_certificates": [
+                {
+                    "url": "http://www.yelp.com/gift-certificates/parkside-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+                    "unused_balances": "CREDIT", 
+                    "options": [
+                        {
+                            "price": 2500, 
+                            "formatted_price": "$25"
+                        }, 
+                        {
+                            "price": 5000, 
+                            "formatted_price": "$50"
+                        }, 
+                        {
+                            "price": 10000, 
+                            "formatted_price": "$100"
+                        }, 
+                        {
+                            "price": 15000, 
+                            "formatted_price": "$150"
+                        }
+                    ], 
+                    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/OHH3Y6AMkLC6PKOZgJG8oA/m.jpg", 
+                    "id": "GhL4HKxffz-wO2nzMXk2cw", 
+                    "currency_code": "USD"
+                }
+            ], 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "parkside-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Attorney St & Avenue B", 
+                "city": "New York", 
+                "display_address": [
+                    "317 E Houston St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "317 E Houston St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7210350036621, 
+                    "longitude": -73.9832305908203
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/verlaine-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1084, 
+            "name": "Verlaine", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/verlaine-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Tapas/Small Plates", 
+                    "tapasmallplates"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "menu_date_updated": 1442258747, 
+            "phone": "2126142494", 
+            "snippet_text": "Verlaine is the golden goose of Happy Hours, it has great small plates, an infamous and delicious signature cocktail (have a lychee martini or 3) and...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/FV0U2VZBvmlALVK9DoiR0g/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/U7z0Jp62ohWYg5nBPtW-TQ/ms.jpg", 
+            "display_phone": "+1-212-614-2494", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "verlaine-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Essex St & Ludlow St", 
+                "city": "New York", 
+                "display_address": [
+                    "110 Rivington St", 
+                    "Lower East Side", 
+                    "New York, NY 10002"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Lower East Side"
+                ], 
+                "postal_code": "10002", 
+                "country_code": "US", 
+                "address": [
+                    "110 Rivington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.720079, 
+                    "longitude": -73.987785
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

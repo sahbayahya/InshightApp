@@ -1,0 +1,1042 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.006277370000006499, 
+            "longitude_delta": 0.01521080000000552
+        }, 
+        "center": {
+            "latitude": 40.74025135, 
+            "longitude": -74.001529
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/kobrick-coffee-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 36, 
+            "name": "Kobrick Coffee", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/kobrick-coffee-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Coffee & Tea", 
+                    "coffee"
+                ]
+            ], 
+            "phone": "2122555588", 
+            "snippet_text": "A very cool little place to go to. The staff is extremely nice and I thought that the flavor of the americano that I ordered was very smooth, not too...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/wVwmTFWTeZp3woYMEogQ6g/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/UYQrWcf7Rs6bJ8XeZGecTg/ms.jpg", 
+            "display_phone": "+1-212-255-5588", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "kobrick-coffee-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & 14th St", 
+                "city": "New York", 
+                "display_address": [
+                    "24 9th Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "24 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7404127286336, 
+                    "longitude": -74.0057301455383
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/raines-law-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 1042, 
+            "name": "Raines Law Room", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/raines-law-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/J4pAppaiXwCkbLOGc4wHww/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "snippet_text": "If you're looking for a higher end Speakeasy, this is the one to go to.\n\nIntimate atmosphere, with space for less than 50 people, it gives off an extremely...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/4O6i1lljZaWdREcCMokMoA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/sOYnaJyyn8QumZRrsFJXyw/ms.jpg", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "raines-law-room-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue Of The Americas & 5th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "48 W 17th St", 
+                    "Flatiron", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Flatiron"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "48 W 17th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.738693, 
+                    "longitude": -73.994621
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/cull-and-pistol-oyster-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 278, 
+            "name": "Cull & Pistol Oyster Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/cull-and-pistol-oyster-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "menu_date_updated": 1452700654, 
+            "phone": "6465681223", 
+            "snippet_text": "Summary of my experience:\n\nHoly crap, $1 oysters during happy hour?? Hell yes, sign me up.\nHoly crap, the wait is 1.5 hours?\nHoly crap, we actually got a...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/TBzz1kx5kUDGp9NRuTlJJg/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/_m7GEPcAldj8eq3eLcJyIA/ms.jpg", 
+            "display_phone": "+1-646-568-1223", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "cull-and-pistol-oyster-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "75 Ninth Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "Chelsea"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "75 Ninth Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7419486919043, 
+                    "longitude": -74.0048140816496
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/johnnys-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 185, 
+            "name": "Johnny's Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/johnnys-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ]
+            ], 
+            "menu_date_updated": 1442355008, 
+            "phone": "2127415279", 
+            "snippet_text": "I love this little dump of a bar.  I live in the neighborhood and I am surrounded by small plates and glasses of wine.  Organic this and free range that....", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/aPpD0Og9itZUTo8X0Wa4dg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/ZlLXLMNHZNm4g4GFGhg-Fg/ms.jpg", 
+            "display_phone": "+1-212-741-5279", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "johnnys-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "90 Greenwich Ave", 
+                    "West Village", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "West Village"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "90 Greenwich Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.73787, 
+                    "longitude": -74.0016799
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-tippler-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 450, 
+            "name": "The Tippler", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-tippler-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2122060000", 
+            "snippet_text": "Quite an overdue review but feel this place deserves the kudos! \n\nCame here on a first date after reading the rave reviews (and bizarre cocktail list!) and...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/LEyeApSqcd30feSyQl_a7Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/P44rLJEx_nkP73YdoCbPnQ/ms.jpg", 
+            "display_phone": "+1-212-206-0000", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-tippler-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "10th Ave & 9th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "425 W 15th St", 
+                    "Meatpacking District", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "Chelsea"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "425 W 15th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7423540864346, 
+                    "longitude": -74.0063398693085
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/corkbuzz-chelsea-market-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 41, 
+            "name": "Corkbuzz Chelsea Market", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/corkbuzz-chelsea-market-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "6462374847", 
+            "snippet_text": "An offshoot of the original temple on 13th street: See yelp review at: http://www.yelp.com/biz/corkbuzz-wine-studio-new-york.\n\nInside Chelsea Market, dozens...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/xY25j0RMmUaHzEwbDuss_Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/M9HWZjTLn-lHKNAyjEfE4g/ms.jpg", 
+            "display_phone": "+1-646-237-4847", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "corkbuzz-chelsea-market-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue Of The Americas & 5th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "75 9th Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "Chelsea"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "75 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.742168, 
+                    "longitude": -74.004512
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-top-of-the-standard-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 312, 
+            "name": "The Top of The Standard", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-top-of-the-standard-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Dance Clubs", 
+                    "danceclubs"
+                ]
+            ], 
+            "phone": "2126457600", 
+            "snippet_text": "Fantastic NYC rooftop experience with Amazing views of NYC and NJ to share with out of town friends and clients. \n\nBrought an out of town guest here and the...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/9Qlbtu2L86Kfa9fKgfQSDQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/3FXi3XomVdLw7yp7ueAnbw/ms.jpg", 
+            "display_phone": "+1-212-645-7600", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-top-of-the-standard-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & Little W 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "848 Washington St", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "848 Washington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.740829, 
+                    "longitude": -74.008071
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/entwine-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 122, 
+            "name": "Entwine", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/entwine-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Mediterranean", 
+                    "mediterranean"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ]
+            ], 
+            "menu_date_updated": 1442032915, 
+            "phone": "2127278765", 
+            "snippet_text": "Excellent little wine bar.  There is a bar up front, with a small room in the back and an outdoor patio.  We had requested a table on the patio, but quickly...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/-P3tn7uUpOC0dIEj2-Wuog/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-212-727-8765", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "entwine-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Bethune St & 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "765 Washington St", 
+                    "West Village", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "765 Washington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.737398, 
+                    "longitude": -74.00796
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/santina-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 237, 
+            "name": "Santina", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/santina-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Italian", 
+                    "italian"
+                ], 
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "menu_date_updated": 1442230523, 
+            "phone": "2122543000", 
+            "snippet_text": "Everything from the decor to the wine was super good! Service was pretty great, although our server left without saying goodbye.\n\nI have to admit though the...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/eGozllqWoOu1U4gvgKxHxw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/3aEatygh1MdTJIKDEme0-Q/ms.jpg", 
+            "display_phone": "+1-212-254-3000", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "santina-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Gansevoort St & Little W 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "820 Washington St", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "820 Washington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.739608, 
+                    "longitude": -74.008445
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/soho-house-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 186, 
+            "name": "Soho House", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/soho-house-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Restaurants", 
+                    "restaurants"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2126273647", 
+            "snippet_text": "Some find Soho house to be pretentious but I couldn't disagree more. Yes, it's a membership only establishment but the service is always warm, friendly and...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/uFLhyFIcxE9b7LfLnWo56w/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/HNqhcjZq344UnkYW1CJYSQ/ms.jpg", 
+            "display_phone": "+1-212-627-3647", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "soho-house-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & 14 St", 
+                "city": "New York", 
+                "display_address": [
+                    "29 9th Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "29 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.74054, 
+                    "longitude": -74.0059
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-standard-high-line-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 272, 
+            "name": "The Standard, High Line ", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/the-standard-high-line-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2126454646", 
+            "snippet_text": "Seeking a nice relaxing few days, I checked in this weekend after watching the amazing Sleep No More and I gotta say this is now one of my favorite hotels...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/MeBVwLmtPV8Hsfzckc2ihQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/Yigud155JZNkXKlNgukV7Q/ms.jpg", 
+            "display_phone": "+1-212-645-4646", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "the-standard-high-line-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & Little W 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "848 Washington Street", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "848 Washington Street"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7406998, 
+                    "longitude": -74.0078506
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/gavin-browns-enterprise-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 2, 
+            "name": "Gavin Brown's Enterprise", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/gavin-browns-enterprise-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "snippet_text": "To begin with, this place is small but what it lacks in space it makes up for in every other way. Luckily, as we walked in, another couple was leaving the...", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/T72XeajZDSNvk38odZiHeA/ms.jpg", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "gavin-browns-enterprise-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "436 W. 15th Street", 
+                    "Meatpacking District", 
+                    "New York, NY 10079"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "Chelsea"
+                ], 
+                "postal_code": "10079", 
+                "country_code": "US", 
+                "address": [
+                    "436 W. 15th Street"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7421264648438, 
+                    "longitude": -74.0066146850586
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/fc-gotham-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 24, 
+            "name": "FC Gotham", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/fc-gotham-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2122555344", 
+            "snippet_text": "Watched the Champions League final here. Great atmosphere, with comfortable seating and 360 degree views of TVs. \n\nDid not try the food here, but drinks...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/BxYDstwGNQtLScUHi-eY0A/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/f25LTfyuGoeFCaek9-ljWw/ms.jpg", 
+            "display_phone": "+1-212-255-5344", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "fc-gotham-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Washington St & 9th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "409 W 13th St", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "409 W 13th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7406578, 
+                    "longitude": -74.0064468
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/bar-naná-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 16, 
+            "name": "Bar Naná", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/bar-naná-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "6469644357", 
+            "snippet_text": "We stopped in here for an apéritif after leaving the Standard Highline because the people there are complete jerks. It was so nice to enter this cute little...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/PcoKosGr9GaIBFmiGU3STQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/qWBMtez1EypJDsFq-gj7SQ/ms.jpg", 
+            "display_phone": "+1-646-964-4357", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "bar-naná-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Washington St & Greenwich St", 
+                "city": "New York", 
+                "display_address": [
+                    "63 Gansevoort St", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "63 Gansevoort St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7395086, 
+                    "longitude": -74.0073619
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/backbar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 7, 
+            "name": "Backbar", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/backbar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "6464499280", 
+            "snippet_text": "This place seems hard to find... I came here for a pasta poetry duel event and if there wasn't people standing by this side door i wouldnt know where to go,...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/3l7mb3MBx2cimLg3l_l8IQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/LVx_jyyq4o1EGHemPTinYA/ms.jpg", 
+            "display_phone": "+1-646-449-9280", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "backbar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "16th and 11th Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "Chelsea"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "16th and 11th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7431047, 
+                    "longitude": -74.0076886
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/braas-monkey-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 2, 
+            "name": "Braas Monkey", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/braas-monkey-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "snippet_text": "Say what? A Korea town joint with a pirate ship theme? Hell, throw on an eye patch and choose from thousands of songs- take it slow with a little Filipino...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/faKv6PkjgjjOmzrtmrz6ig/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/SnsR1qj5U5YkY7ofqLG_Ag/ms.jpg", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "braas-monkey-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "12th St Little W 55", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "12th St Little W 55"
+                ], 
+                "coordinate": {
+                    "latitude": 40.740768, 
+                    "longitude": -74.008446
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/electric-room-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 53, 
+            "name": "Electric Room", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/electric-room-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2122292511", 
+            "snippet_text": "Fun place. Went on a Thursday evening with a few friends as they were just opening. It was pretty empty at the time, but there was a DJ I was really feeling...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/N7vLNphtC4unp-NxP7sn7Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/GhC3MrmbseuwaP2QEE0iUw/ms.jpg", 
+            "display_phone": "+1-212-229-2511", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "electric-room-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "9th Ave & 8th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "355 W 16th St", 
+                    "Chelsea", 
+                    "New York, NY 10011"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Chelsea"
+                ], 
+                "postal_code": "10011", 
+                "country_code": "US", 
+                "address": [
+                    "355 W 16th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7417792826891, 
+                    "longitude": -74.0030962228775
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-biergarten-at-the-standard-high-line-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 623, 
+            "name": "The Biergarten at The Standard, High Line", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/the-biergarten-at-the-standard-high-line-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "German", 
+                    "german"
+                ], 
+                [
+                    "Pretzels", 
+                    "pretzels"
+                ]
+            ], 
+            "phone": "2126454100", 
+            "snippet_text": "Stopped in for a beer, mid-day on a Sunday.\nVery chill, no waiting, decent beer. \nTicket system is cool, buy tickets @ $9 a piece. Each is good for one beer...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/9AcvY5SfDQiodH2glL0KBA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/aHqEr1uf116NgiKgnIofPg/ms.jpg", 
+            "display_phone": "+1-212-645-4100", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "the-biergarten-at-the-standard-high-line-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & Little W 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "848 Washington St", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "848 Washington St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.74051498883, 
+                    "longitude": -74.008025137749
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/provocateur-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 59, 
+            "name": "Provocateur", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/provocateur-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Dance Clubs", 
+                    "danceclubs"
+                ]
+            ], 
+            "phone": "2129299036", 
+            "snippet_text": "Space: There's a dancefloor area and there's a lounge area.  Both locations are sound proof from each other.  \n\nPeople: Even guy/girl ratio.  Primarily...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/ioe1DyhQLx_XiRAXv804_Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/gKmiFeHnALFscRDo3rRE6g/ms.jpg", 
+            "display_phone": "+1-212-929-9036", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "provocateur-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & Little W 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "18 9th Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "18 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7399673, 
+                    "longitude": -74.0058746
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-chester-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 121, 
+            "name": "The Chester", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/the-chester-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Breakfast & Brunch", 
+                    "breakfast_brunch"
+                ]
+            ], 
+            "menu_date_updated": 1442172594, 
+            "phone": "6462532284", 
+            "snippet_text": "I came here for my birthday happy hour during late summer and had a great time.  It's not pretentious whatsoever and has a very laid back feel to it.  They...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/ghQd0-z82LpC-39wduAzcQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/6qnF6wrdFoig3YaRUr1kEQ/ms.jpg", 
+            "display_phone": "+1-646-253-2284", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-chester-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & Little W 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "18 9th Ave", 
+                    "Meatpacking District", 
+                    "New York, NY 10014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Meatpacking District", 
+                    "West Village"
+                ], 
+                "postal_code": "10014", 
+                "country_code": "US", 
+                "address": [
+                    "18 9th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7398532, 
+                    "longitude": -74.0057335
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

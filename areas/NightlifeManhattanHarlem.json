@@ -1,0 +1,1024 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.030253703329421455, 
+            "longitude_delta": 0.021262342229050546
+        }, 
+        "center": {
+            "latitude": 40.814998883331555, 
+            "longitude": -73.94712050101319
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/bills-place-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 46, 
+            "name": "Bill's Place", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/bills-place-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ]
+            ], 
+            "phone": "2122810777", 
+            "snippet_text": "If you want to hear some great jazz, go here. Bring your own beer or wine, they only thing they sell here are small bottles of water for two dollars. The...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/vMmBScGFxhCK7OuXpdQQaQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/3XfqA7gPKAYHV8_aGht2ow/ms.jpg", 
+            "display_phone": "+1-212-281-0777", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "bills-place-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "7th Ave & Lenox Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "148 W 133rd St", 
+                    "Harlem", 
+                    "New York, NY 10030"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10030", 
+                "country_code": "US", 
+                "address": [
+                    "148 W 133rd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.813346862793, 
+                    "longitude": -73.9436645507812
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/at-the-wallace-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 65, 
+            "name": "At the Wallace", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/at-the-wallace-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2122346896", 
+            "snippet_text": "Yup, officially a 5 star. I go to this place more than I should admit. The food is great, not particularly healthy but, fuck it. Smother anything in cheese...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/DnYk7_JegvGPJKGC1isDWA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/ugk6nA0PxePk96MjL7MAUg/ms.jpg", 
+            "display_phone": "+1-212-234-6896", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "at-the-wallace-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "148th St & 149th St", 
+                "city": "New York", 
+                "display_address": [
+                    "3612 Broadway", 
+                    "Harlem", 
+                    "New York, NY 10031"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10031", 
+                "country_code": "US", 
+                "address": [
+                    "3612 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8286495970992, 
+                    "longitude": -73.9485832208136
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/harlem-nights-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 26, 
+            "name": "Harlem Nights", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/harlem-nights-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "phone": "6468204603", 
+            "snippet_text": "After a friend and fellow eliter raved about this place, I came across an article online which highlighted the fact that the owner is a former bartender and...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/HSYQLvdR2u6E2L1fOqpHpA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/ffZ_L3kD9KPtu6VE7GSKKw/ms.jpg", 
+            "display_phone": "+1-646-820-4603", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "harlem-nights-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "138th St & 139th St", 
+                "city": "New York", 
+                "display_address": [
+                    "2361 7th Ave", 
+                    "Harlem", 
+                    "New York, NY 10030"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10030", 
+                "country_code": "US", 
+                "address": [
+                    "2361 7th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8172982186079, 
+                    "longitude": -73.9420799911022
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/showmans-jazz-club-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 36, 
+            "name": "Showman's Jazz Club", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/showmans-jazz-club-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ]
+            ], 
+            "phone": "2128648941", 
+            "snippet_text": "It's a narrow bar decorated in style and soaked in history. At the back sits a small stage featuring a Hammond B3 organ. The players rotate until late...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/jJVTf2Zzv_4bs8tph0uXrw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/KZVRrF_1QZL_IxrB8zziYA/ms.jpg", 
+            "display_phone": "+1-212-864-8941", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "showmans-jazz-club-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "375 W 125th St Frnt", 
+                    "Harlem", 
+                    "New York, NY 10027"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10027", 
+                "country_code": "US", 
+                "address": [
+                    "375 W 125th St Frnt"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8111458217094, 
+                    "longitude": -73.9534378051758
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/mess-hall-harlem?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 44, 
+            "name": "Mess Hall", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/mess-hall-harlem?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "6466923098", 
+            "snippet_text": "Great beer and whiskey selection mixed drinks are ok... Have no idea why they serve hotdogs super gross... Grilled cheese sandwich would be easier and...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/E6rPHyrpEs1Ap0zDczl6RQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/pRK2lprJ4dcEUFwLcAc2bw/ms.jpg", 
+            "display_phone": "+1-646-692-3098", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "mess-hall-harlem", 
+            "is_closed": false, 
+            "location": {
+                "city": "Harlem", 
+                "display_address": [
+                    "2194 Frederick Douglass Blvd", 
+                    "Harlem", 
+                    "Harlem, NY 10026"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10026", 
+                "country_code": "US", 
+                "address": [
+                    "2194 Frederick Douglass Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 40.805824, 
+                    "longitude": -73.953964
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/hyacinths-haven-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 49, 
+            "name": "Hyacinth's Haven", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/hyacinths-haven-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Cafes", 
+                    "cafes"
+                ]
+            ], 
+            "phone": "6467558161", 
+            "snippet_text": "On a cool rainy evening I was all alone for dinner and I decided to grab a meal at hyacinth's. Glad I did because Not only did I run into an old friend, I...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/dtc-1jO0PcINbLO1jYFc5Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/AZxcQfmg-41jy2wuOjMDOg/ms.jpg", 
+            "display_phone": "+1-646-755-8161", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "hyacinths-haven-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "2374 Adam Clayton Powell Jr Blvd", 
+                    "Harlem", 
+                    "New York, NY 10030"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10030", 
+                "country_code": "US", 
+                "address": [
+                    "2374 Adam Clayton Powell Jr Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8177749639411, 
+                    "longitude": -73.9420940726995
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/hogshead-tavern-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 84, 
+            "name": "Hogshead Tavern", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/hogshead-tavern-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2122341154", 
+            "snippet_text": "Came here last night for dinner and we were blown away! They have an excellent selection of beers and liquors and the one cocktail we ordered was delicious....", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/7fLUZEkh0uhvJZCwpZz2Vg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/9l0mT4tsW_ynymUqdqDMjw/ms.jpg", 
+            "display_phone": "+1-212-234-1154", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "hogshead-tavern-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "143rd St & 144th St", 
+                "city": "New York", 
+                "display_address": [
+                    "126 Hamilton Pl", 
+                    "Harlem", 
+                    "New York, NY 10031"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10031", 
+                "country_code": "US", 
+                "address": [
+                    "126 Hamilton Pl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8239852046558, 
+                    "longitude": -73.949343390213
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/a-touch-of-dee-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 6, 
+            "name": "A Touch of Dee", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/a-touch-of-dee-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ]
+            ], 
+            "phone": "2126949530", 
+            "snippet_text": "Wow!!! What a great neighborhood hidden gem.  My husband and I always pass by this bar but never stop in.  Sunday night we decided to drop in and give it a...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/X-plUwYXkNTiam6rT0GswQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/3Ve8ihQXtsi71eudMBcPug/ms.jpg", 
+            "display_phone": "+1-212-694-9530", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "a-touch-of-dee-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "657 Malcom X Blvd", 
+                    "Harlem", 
+                    "New York, NY 10037"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10037", 
+                "country_code": "US", 
+                "address": [
+                    "657 Malcom X Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8190956, 
+                    "longitude": -73.9374924
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/harlem-public-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 491, 
+            "name": "Harlem Public", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/harlem-public-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "menu_date_updated": 1452484420, 
+            "phone": "2129399404", 
+            "snippet_text": "Came for a late dinner, been craving a burger all day but due to my bartender sleeping hours couldn't pry myself out of bed till about 9. \n\nFirst off the...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/WhK6bRlg2wbZIdOfD4nQ8Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/K1UqOItL0k1D1JJ3SBr4Sg/ms.jpg", 
+            "display_phone": "+1-212-939-9404", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "locu", 
+            "id": "harlem-public-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "148th St & 149th St", 
+                "city": "New York", 
+                "display_address": [
+                    "3612 Broadway", 
+                    "Harlem", 
+                    "New York, NY 10031"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10031", 
+                "country_code": "US", 
+                "address": [
+                    "3612 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8287505666631, 
+                    "longitude": -73.9485814944427
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/papa-juan-cigar-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 17, 
+            "name": "Papa Juan Cigar Room", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/papa-juan-cigar-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ], 
+                [
+                    "Tobacco Shops", 
+                    "tobaccoshops"
+                ]
+            ], 
+            "phone": "2122837272", 
+            "snippet_text": "Nice place, good cigars . Good spot to each sports and or just relax with a cigar.  Best spot in that area", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/EgvqgNShx2Pzi1u09lglvg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/iV29Mtz58LLzN3mUKF_G1Q/ms.jpg", 
+            "display_phone": "+1-212-283-7272", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "papa-juan-cigar-room-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "140th St & 141st St", 
+                "city": "New York", 
+                "display_address": [
+                    "3456 Broadway Ave", 
+                    "Harlem", 
+                    "New York, NY 10031"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10031", 
+                "country_code": "US", 
+                "address": [
+                    "3456 Broadway Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8237080276012, 
+                    "longitude": -73.9522435516119
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/american-legion-post-398-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 26, 
+            "name": "American Legion Post 398", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/american-legion-post-398-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ], 
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ]
+            ], 
+            "phone": "2122839701", 
+            "snippet_text": "Five out of five for the friendly neighborhood vibe that's different from the too-cool-for-school vibe some bars and clubs give off in New York City. Those...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/DrTp0FbhqU5_DrrKJlYqgg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/b2mMm4Qg6lEk1YzJna1YOQ/ms.jpg", 
+            "display_phone": "+1-212-283-9701", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "american-legion-post-398-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "248 W 132nd St", 
+                    "Harlem", 
+                    "New York, NY 10027"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10027", 
+                "country_code": "US", 
+                "address": [
+                    "248 W 132nd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8138656616211, 
+                    "longitude": -73.9468307495117
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/parlay-cafe-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 24, 
+            "name": "Parlay Cafe", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/parlay-cafe-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Hookah Bars", 
+                    "hookah_bars"
+                ]
+            ], 
+            "phone": "6468820179", 
+            "snippet_text": "This place is the best! Good service, good wine, good hookah. On any given day of the week you can have fun here. Kick back watch a game, listen to some...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/pYFH8227hgooR201PRsZSQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/QxR6NbS5Y2Drk5_pi9N8pw/ms.jpg", 
+            "display_phone": "+1-646-882-0179", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "parlay-cafe-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "148th St & 149th St", 
+                "city": "New York", 
+                "display_address": [
+                    "1780 Amsterdam Ave", 
+                    "Harlem", 
+                    "New York, NY 10031"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10031", 
+                "country_code": "US", 
+                "address": [
+                    "1780 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8271282645009, 
+                    "longitude": -73.9462916750825
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/gin-fizz-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 14, 
+            "name": "Gin Fizz", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/gin-fizz-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ]
+            ], 
+            "menu_date_updated": 1452606183, 
+            "phone": "2122892220", 
+            "snippet_text": "Went here for the first time last night. Such a great spot!!!! All the staff was super friendly and helpful. The cocktails were good and came out in a...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/wpR9hDskveAbhrAKBjv8fg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/FCzd-g8S_Q7NrhOgLNZh2g/ms.jpg", 
+            "display_phone": "+1-212-289-2220", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "gin-fizz-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "126th St & 125th St", 
+                "city": "New York", 
+                "display_address": [
+                    "308 Lenox Ave", 
+                    "2nd Fl", 
+                    "Harlem", 
+                    "New York, NY 10027"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10027", 
+                "country_code": "US", 
+                "address": [
+                    "308 Lenox Ave", 
+                    "2nd Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8080882, 
+                    "longitude": -73.945162
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/farafina-cafe-and-lounge-harlem-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 33, 
+            "name": "Farafina Cafe & Lounge Harlem", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/ozTCiLAz9-3tyZByyQR5eA/ms.jpg", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/farafina-cafe-and-lounge-harlem-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "150th St & 149th St", 
+                "city": "New York", 
+                "display_address": [
+                    "1813 Amsterdam Ave", 
+                    "Harlem", 
+                    "New York, NY 10031"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10031", 
+                "country_code": "US", 
+                "address": [
+                    "1813 Amsterdam Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.828214, 
+                    "longitude": -73.9452438
+                }, 
+                "state_code": "NY"
+            }, 
+            "menu_date_updated": 1452513407, 
+            "phone": "2122812445", 
+            "snippet_text": "If you don't read any further know that this establishment is awesome and worthy of support! I had my 50th birthday party in their private space downstairs...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/jbIp6owy6-peQIQB5ju5Ww/ms.jpg", 
+            "categories": [
+                [
+                    "African", 
+                    "african"
+                ], 
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "display_phone": "+1-212-281-2445", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "farafina-cafe-and-lounge-harlem-new-york-2", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/63089?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi"
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/shrine-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 168, 
+            "name": "Shrine", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/shrine-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "menu_date_updated": 1441999628, 
+            "phone": "2126907807", 
+            "snippet_text": "I absolutely loved this venue although I wish it was located a little bit closer to where I lived.  I came to Shrine for the HONK festival and heard some...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/D-FYXHrawbWyhS-wf2KfsA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/yRWDEutWV-wc2TWiaA_E8w/ms.jpg", 
+            "display_phone": "+1-212-690-7807", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "shrine-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "2271 Adam Clayton Powell Blvd", 
+                    "Harlem", 
+                    "New York, NY 10030"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10030", 
+                "country_code": "US", 
+                "address": [
+                    "2271 Adam Clayton Powell Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8142357, 
+                    "longitude": -73.9441757
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/peque-vinos-and-tapas-nyc-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 34, 
+            "name": "PEQUE Vinos & Tapas NYC", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/peque-vinos-and-tapas-nyc-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/6CaGhpvNWMazJZL1v_JkCA/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Spanish", 
+                    "spanish"
+                ], 
+                [
+                    "Tapas Bars", 
+                    "tapas"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "6466784095", 
+            "snippet_text": "As myself and my bf were pondering what to eat this evening I mentioned that I haven't had tapas in years. Since I was living in Spain in fact. \nIt was...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/w1QSXz5qyf-aGUFGHcHmtQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/hb6M9VOOZdRjP8p1viBZMw/ms.jpg", 
+            "display_phone": "+1-646-678-4095", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "peque-vinos-and-tapas-nyc-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "7th Ave & 8th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "231 W 145th St", 
+                    "Harlem", 
+                    "New York, NY 10039"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10039", 
+                "country_code": "US", 
+                "address": [
+                    "231 W 145th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8226081540197, 
+                    "longitude": -73.9408923939218
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/67-orange-street-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 242, 
+            "name": "67 Orange Street", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/67-orange-street-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2126622030", 
+            "snippet_text": "Excellent, sleek, and hella chill spot. \n\nWaitstaff was attentive and quick.\n\nThe drinks were bomb, top notch, delicious. Get the Kentucky Blossom and the...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/kpJfQzvCoaJ1zuG9gTe1SQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/L7LlxDzJ_BNK8sER7n7RWg/ms.jpg", 
+            "display_phone": "+1-212-662-2030", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "67-orange-street-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "2082 Frederick Douglas Blvd", 
+                    "Harlem", 
+                    "New York, NY 10026"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10026", 
+                "country_code": "US", 
+                "address": [
+                    "2082 Frederick Douglas Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 40.80226972714811, 
+                    "longitude": -73.9567852020264
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/mintons-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 90, 
+            "name": "Minton's", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/mintons-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "menu_date_updated": 1452514016, 
+            "phone": "2122432222", 
+            "snippet_text": "Elegant beautiful setting for an intimate hearing of superb jazz with delicious food!   Staff are warm and welcoming.\n\nWe enjoyed the signature gumbo dish,...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/FcLOJwVqhnj5gAep7iyaqw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/d_RjS6FfKt7GL89_C94jHA/ms.jpg", 
+            "display_phone": "+1-212-243-2222", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "locu", 
+            "id": "mintons-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "7th Ave & St Nicholas Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "206 W 118th St", 
+                    "Harlem", 
+                    "New York, NY 10026"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10026", 
+                "country_code": "US", 
+                "address": [
+                    "206 W 118th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8047867, 
+                    "longitude": -73.952196
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/mist-harlem-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 19, 
+            "name": "MIST Harlem", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/mist-harlem-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/LW_t_KO6SybdAHMtNilAEA/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ], 
+                [
+                    "Cinema", 
+                    "movietheaters"
+                ]
+            ], 
+            "menu_date_updated": 1452487062, 
+            "phone": "6467383043", 
+            "snippet_text": "Not sure what the deal is with this place. It used to be Madiba and was open during the day, which was great! I've only ever had coffee, pastries, and lunch...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/f2EgL2bCbo3eb008xUTDRA/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/4xekYx7AXEhfCL-EluMBXA/ms.jpg", 
+            "display_phone": "+1-646-738-3043", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "mist-harlem-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Lenox Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "46 W 116th St", 
+                    "Harlem", 
+                    "New York, NY 10026"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10026", 
+                "country_code": "US", 
+                "address": [
+                    "46 W 116th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.80122, 
+                    "longitude": -73.94853
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/tio-luca-bistro-latino-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 78, 
+            "name": "Tio Luca Bistro Latino", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/tio-luca-bistro-latino-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Latin American", 
+                    "latin"
+                ]
+            ], 
+            "phone": "2129399305", 
+            "snippet_text": "Loved this spot. It was my first time trying tapas and it definitely left me wanting more. \n\nThe four of us started off with the shrimp, and lobster...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/RT4c9GAeQ35JjqNcSd21WA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/lWsAvheWVlGWA1wU1UIHlw/ms.jpg", 
+            "display_phone": "+1-212-939-9305", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "tio-luca-bistro-latino-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "421 Lenox Ave", 
+                    "Harlem", 
+                    "New York, NY 10027"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10027", 
+                "country_code": "US", 
+                "address": [
+                    "421 Lenox Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.811818, 
+                    "longitude": -73.943
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

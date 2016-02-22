@@ -1,0 +1,1096 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.006168470000005755, 
+            "longitude_delta": 0.009999219999997422
+        }, 
+        "center": {
+            "latitude": 40.74740525, 
+            "longitude": -73.9871565
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/state-grill-and-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 46, 
+            "name": "State Grill and Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/state-grill-and-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "menu_date_updated": 1452602173, 
+            "phone": "2122169693", 
+            "snippet_text": "Excellent atmosphere...I like my bubble and need a break from jam-packed sidewalks..... rare to have sufficient spacing in between tables in NYC, but this...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/SYf6VltAEaGka2P4fMpgfQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/tyiweSrCoPAAq7kGjuTI9Q/ms.jpg", 
+            "display_phone": "+1-212-216-9693", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "state-grill-and-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "Empire State Building", 
+                    "350 5th Ave", 
+                    "Midtown West", 
+                    "New York, NY 10118"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10118", 
+                "country_code": "US", 
+                "address": [
+                    "Empire State Building", 
+                    "350 5th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7482015401149, 
+                    "longitude": -73.9853947175581
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-nomad-bar-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 174, 
+            "name": "The NoMad Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-nomad-bar-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2127961500", 
+            "snippet_text": "This place has amazing cocktails! I got the \"start me up\" cocktail and it definitely didn't disappoint. The bartenders clearly know what they're doing....", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/hhrcXYk0f62bPptCz8yiZg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/9fW3sS2sZFMaccIn9FcvBA/ms.jpg", 
+            "display_phone": "+1-212-796-1500", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "the-nomad-bar-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "The NoMad Hotel", 
+                    "10 W 28th St", 
+                    "Flatiron", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Flatiron"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "The NoMad Hotel", 
+                    "10 W 28th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7448311, 
+                    "longitude": -73.9882736
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/arthur-murray-dance-studio-new-york-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 14, 
+            "name": "Arthur Murray Dance Studio", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/arthur-murray-dance-studio-new-york-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dance Clubs", 
+                    "danceclubs"
+                ], 
+                [
+                    "Dance Schools", 
+                    "dance_schools"
+                ], 
+                [
+                    "Dance Studios", 
+                    "dancestudio"
+                ]
+            ], 
+            "phone": "2124732623", 
+            "snippet_text": "My fiance and I tried out the dance studio via a Groupon for some \"tips\" towards our wedding dance.  We worked with Esther and Alex and loved them so much...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/qNdYxcOrDnTUigtlc18-vw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/wmQAzoIzMsI1tbLvpiU_6A/ms.jpg", 
+            "display_phone": "+1-212-473-2623", 
+            "gift_certificates": [
+                {
+                    "url": "http://www.yelp.com/gift-certificates/arthur-murray-dance-studio-new-york-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+                    "unused_balances": "CREDIT", 
+                    "options": [
+                        {
+                            "price": 10000, 
+                            "formatted_price": "$100"
+                        }, 
+                        {
+                            "price": 15000, 
+                            "formatted_price": "$150"
+                        }, 
+                        {
+                            "price": 25000, 
+                            "formatted_price": "$250"
+                        }, 
+                        {
+                            "price": 50000, 
+                            "formatted_price": "$500"
+                        }
+                    ], 
+                    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/IB3FD0jMgeLHdA0RB-8GKw/m.jpg", 
+                    "id": "UXe1WZ8BuTXo4uR134RnyQ", 
+                    "currency_code": "USD"
+                }
+            ], 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "arthur-murray-dance-studio-new-york-5", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "30th St & 31st St", 
+                "city": "New York", 
+                "display_address": [
+                    "286 5th Ave", 
+                    "3rd Fl", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "286 5th Ave", 
+                    "3rd Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7462673561252, 
+                    "longitude": -73.9864048361778
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/peter-dillons-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 35, 
+            "name": "Peter Dillon's", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/peter-dillons-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2123004091", 
+            "snippet_text": "Great location, fun, cheap. A smallish place but surprised that I could find drinks for $4 at a midtown location - what? Not ideal for talking so I'd say...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/UZxJaMVAMZqaKw-S92vyCg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/3YSZps_IRo3vfrPrjW39mw/ms.jpg", 
+            "display_phone": "+1-212-300-4091", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "peter-dillons-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Madison Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "2 E 36th St", 
+                    "Midtown East", 
+                    "New York, NY 10016"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown East"
+                ], 
+                "postal_code": "10016", 
+                "country_code": "US", 
+                "address": [
+                    "2 E 36th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7494683749584, 
+                    "longitude": -73.9833016460708
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/flatiron-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 403, 
+            "name": "Flatiron Room", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/flatiron-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "menu_date_updated": 1452484881, 
+            "phone": "2127253860", 
+            "snippet_text": "In love with this place and my favorite bar in all of NYC so far. \n\nPeople - Never super crowded.  I've gone maybe a total of 6 times during various times...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/PB8nYE-qJzvknOQuuoAUPg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/B6nPnq8c2TZXvm2746QYSg/ms.jpg", 
+            "display_phone": "+1-212-725-3860", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "flatiron-room-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & 6th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "37 W 26th St", 
+                    "Flatiron", 
+                    "New York, NY 10010"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Flatiron"
+                ], 
+                "postal_code": "10010", 
+                "country_code": "US", 
+                "address": [
+                    "37 W 26th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.744625, 
+                    "longitude": -73.990409
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/stage-karaoke-and-lounge-new-york-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 45, 
+            "name": "Stage Karaoke & Lounge", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/stage-karaoke-and-lounge-new-york-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Karaoke", 
+                    "karaoke"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2126294141", 
+            "snippet_text": "Love this place! Great service! Was able to get a room on a busy Saturday and the hosts were really nice and accommodating. Had the Angry Shrek and its...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/j0dD7_ZI9eWapy0pEyLS5w/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/ZxZKZNMxfWrjbUMwOTDp-A/ms.jpg", 
+            "display_phone": "+1-212-629-4141", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "stage-karaoke-and-lounge-new-york-4", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & 5th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "23 W 32nd St", 
+                    "3rd Fl", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "23 W 32nd St", 
+                    "3rd Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7478828430176, 
+                    "longitude": -73.9866561889648
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-nomad-library-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 142, 
+            "name": "The NoMad Library", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-nomad-library-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Gastropubs", 
+                    "gastropubs"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "3474725660", 
+            "snippet_text": "Venue - Beautiful library den with booth and bar seating. It's pretty spacious and cozy but can get crowded and loud.\n\nDrinks - Amazing. They have very...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/O8hI8xW1e958doOdPR3fWg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/2KO0T-u_Bt3hNVgQdkUqFA/ms.jpg", 
+            "display_phone": "+1-347-472-5660", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-nomad-library-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "27th St & 28th St", 
+                "city": "New York", 
+                "display_address": [
+                    "1170 Broadway", 
+                    "Flatiron", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Flatiron"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "1170 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.745696, 
+                    "longitude": -73.989065
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/5th-and-mad-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 18, 
+            "name": "5th & Mad", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/5th-and-mad-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2127252353", 
+            "snippet_text": "Love this place, came here with a gf for happy hour. $5 beer, wine, and well drinks! Literally something for everyone! \n\nAtmosphere is chill, good number of...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/zhRyP5qZOPrG187tT9xJOw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-212-725-2353", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "5th-and-mad-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Madison Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "7 E 36th St", 
+                    "Midtown East", 
+                    "New York, NY 10016"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown East"
+                ], 
+                "postal_code": "10016", 
+                "country_code": "US", 
+                "address": [
+                    "7 E 36th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7496015, 
+                    "longitude": -73.9829744
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/gagopa-karaoke-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 176, 
+            "name": "Gagopa Karaoke", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/gagopa-karaoke-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Karaoke", 
+                    "karaoke"
+                ]
+            ], 
+            "phone": "2129675353", 
+            "snippet_text": "I usually only review restaurants, but there is something so joyous about this place, about being beside someone as they sing a song you recall from long...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/NCDluyLti_YTKu2N9qHRrw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/B9O2bAu6G3qYw4hxBghYxg/ms.jpg", 
+            "display_phone": "+1-212-967-5353", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "gagopa-karaoke-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "28 W 32nd St", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "28 W 32nd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.74757, 
+                    "longitude": -73.9870987
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/measure-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 130, 
+            "name": "Measure", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/measure-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Tapas/Small Plates", 
+                    "tapasmallplates"
+                ]
+            ], 
+            "phone": "2126138667", 
+            "snippet_text": "Count me down as a fan of this place. My friend made reservations for afternoon tea at the lounge in the hotel. The reservation wasn't really necessary...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/rRhQzX0msJ_RB1pxANk4PQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/vcAbkfimiuYR3CTFA_UXBw/ms.jpg", 
+            "display_phone": "+1-212-613-8667", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "measure-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "37th St & 36th St", 
+                "city": "New York", 
+                "display_address": [
+                    "400 5th Ave", 
+                    "Midtown West", 
+                    "New York, NY 10018"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West"
+                ], 
+                "postal_code": "10018", 
+                "country_code": "US", 
+                "address": [
+                    "400 5th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.750099, 
+                    "longitude": -73.98381
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/turntable-chicken-jazz-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1006, 
+            "name": "Turntable Chicken Jazz ", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/turntable-chicken-jazz-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Chicken Wings", 
+                    "chicken_wings"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "phone": "2127149700", 
+            "snippet_text": "Their fried chicken is a must get!!! Super crispy and not completely smothered in sauce. I've had their seafood fried rice and it wasn't very tasty. It was...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/FXFDtcoXvl5N_Sncri3c4A/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/ovrany22ryLzlR_80IBG6Q/ms.jpg", 
+            "display_phone": "+1-212-714-9700", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "turntable-chicken-jazz-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "31st St & 32nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "314 5th Ave", 
+                    "2nd Fl", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "314 5th Ave", 
+                    "2nd Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.747131, 
+                    "longitude": -73.985939
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/space-billiard-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 106, 
+            "name": "Space Billiard", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/space-billiard-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pool Halls", 
+                    "poolhalls"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2122394166", 
+            "snippet_text": "Location is a bit tricky to find. But eventually found it. As soon as you go in there is someone to greet you. We went a bit late at night so all tables...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/AWPnkQuRTnsi5GDIe_nzFA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/UGc3N7ng-esRgMjItIIxFg/ms.jpg", 
+            "display_phone": "+1-212-239-4166", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "space-billiard-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & 5th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "34 W 32nd St", 
+                    "12th Fl", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "34 W 32nd St", 
+                    "12th Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7477239, 
+                    "longitude": -73.9872855
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/pioneers-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 119, 
+            "name": "Pioneers", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/pioneers-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ]
+            ], 
+            "phone": "2127142222", 
+            "snippet_text": "I am definitely a fan of Pioneers.  I really loved the down to earth vibe here.  There are giant Jenga every where along with a foosball table and a huge...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/AK8gS2IZb-GthY82FjZ2IQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/B6nPnq8c2TZXvm2746QYSg/ms.jpg", 
+            "display_phone": "+1-212-714-2222", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "pioneers-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "7th Ave & Avenue Of The Americas", 
+                "city": "New York", 
+                "display_address": [
+                    "138 W 29th St", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Chelsea"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "138 W 29th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7472374, 
+                    "longitude": -73.9917016
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-ginger-man-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1039, 
+            "name": "The Ginger Man", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-ginger-man-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Breweries", 
+                    "breweries"
+                ]
+            ], 
+            "phone": "2125323740", 
+            "snippet_text": "As everyone says and what you will quickly discover if you come here, The Ginger Man's beer selection is extensive. I was turned on to this bar thanks to a...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/lS-n5F-xMEXtTFZnJHpp2g/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/mtwbFUNRm1mf9wCI9m_YPg/ms.jpg", 
+            "display_phone": "+1-212-532-3740", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-ginger-man-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Madison Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "11 E 36th St", 
+                    "Midtown East", 
+                    "New York, NY 10016"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown East"
+                ], 
+                "postal_code": "10016", 
+                "country_code": "US", 
+                "address": [
+                    "11 E 36th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.74945, 
+                    "longitude": -73.9827
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/est-1986-wine-bar-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 185, 
+            "name": "est. 1986 Wine Bar/Lounge", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/est-1986-wine-bar-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2125631500", 
+            "snippet_text": "Was introduced to this place by a fellow yelper and I can honestly say this is the best lounge in k-town and a hidden gem tucked within the hard drinking...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/3mZnrq5zKqgNT0tsNMwPiw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/4KKxrcgA8-skQXVB2AKEwA/ms.jpg", 
+            "display_phone": "+1-212-563-1500", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "est-1986-wine-bar-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "43 W 32nd St", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "43 W 32nd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.748234, 
+                    "longitude": -73.987457
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/cloud-social-rooftop-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 110, 
+            "name": "Cloud Social Rooftop Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/cloud-social-rooftop-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ]
+            ], 
+            "phone": "2129041092", 
+            "snippet_text": "Looking for a quiet and trendy rooftop bar for Saturday nite ? This place is the best !!\n\nTry milk stout $8\nOr  hot chocolate with rum $12", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/V43kYI-3en1UNV6yMb6X2A/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/9EyP8dapBujsxJnY13YIVQ/ms.jpg", 
+            "display_phone": "+1-212-904-1092", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "cloud-social-rooftop-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "Nyma Hotel", 
+                    "6 W 32 St, 17th Fl", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "Nyma Hotel", 
+                    "6 W 32 St, 17th Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.747261, 
+                    "longitude": -73.986351
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/rattle-n-hum-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 553, 
+            "name": "Rattle 'N' Hum", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/rattle-n-hum-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "menu_date_updated": 1452371079, 
+            "phone": "2124811586", 
+            "snippet_text": "Rattle N Hum was a really cool spot with a lot of character. It's not a big place, but it has one hell of a beer list. We were impressed by both the...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/Of2nidFtwYws4Vnp_dIOLA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/4nDw9LYmcWdkEPpTFN336A/ms.jpg", 
+            "display_phone": "+1-212-481-1586", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "rattle-n-hum-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Madison Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "14 E 33rd St", 
+                    "Midtown East", 
+                    "New York, NY 10016"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown East"
+                ], 
+                "postal_code": "10016", 
+                "country_code": "US", 
+                "address": [
+                    "14 E 33rd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.74725, 
+                    "longitude": -73.984261
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/foleys-ny-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 167, 
+            "name": "Foley's NY", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/foleys-ny-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ], 
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2122900080", 
+            "snippet_text": "Company happy hour everyday with main man Alagash White. \n\nMinus one star for two many knats. Best urinals in the city.", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/CCBgU_uDWsatjbmIkHnwoQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/TQYp4kerKO-W5MTsdOmrsQ/ms.jpg", 
+            "display_phone": "+1-212-290-0080", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "foleys-ny-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "5th Ave & Broadway", 
+                "city": "New York", 
+                "display_address": [
+                    "18 W 33rd St", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "18 W 33rd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7481499, 
+                    "longitude": -73.9865189
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/mui-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 99, 
+            "name": "MUI", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/mui-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Korean", 
+                    "korean"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "menu_date_updated": 1442229090, 
+            "phone": "2122441900", 
+            "snippet_text": "I have a special place in my heart for this spot; pretty much the ever enthusiastic side chick who's waiting in the wings to meet your needs if you don't...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/J64q5Mzmh1T6KNHIBCc7rA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/O-zhlUsuZpM1DmprnzpCNA/ms.jpg", 
+            "display_phone": "+1-212-244-1900", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "mui-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & 5th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "10 W 32nd St", 
+                    "5th Fl", 
+                    "Midtown West", 
+                    "New York, NY 10001"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10001", 
+                "country_code": "US", 
+                "address": [
+                    "10 W 32nd St", 
+                    "5th Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.747314453125, 
+                    "longitude": -73.9864654541016
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/5-bar-karaoke-and-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 112, 
+            "name": "5 Bar Karaoke & Lounge", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/5-bar-karaoke-and-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Karaoke", 
+                    "karaoke"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2125946644", 
+            "snippet_text": "Love Love Love . \n  The decor, the bartenders, as well as the vibe at this place is nothing short of a good time. Weeknights at 5 bar by The Bar usually...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/EgsjckBwPSszWyqGbihXjA/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/GOK6ZQIgpYpcTU4wT6zSBw/ms.jpg", 
+            "display_phone": "+1-212-594-6644", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "5-bar-karaoke-and-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "38 W 32 St", 
+                    "5th Fl", 
+                    "Midtown West", 
+                    "New York, NY 10016"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Midtown West", 
+                    "Koreatown"
+                ], 
+                "postal_code": "10016", 
+                "country_code": "US", 
+                "address": [
+                    "38 W 32 St", 
+                    "5th Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7479230519984, 
+                    "longitude": -73.9873537460937
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

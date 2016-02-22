@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		8E238E071C629166001E4893 /* ScrapingTheSkint.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = ScrapingTheSkint.py; path = ../ScrapingTheSkint.py; sourceTree = "<group>"; };
+		8E238E081C629166001E4893 /* views.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = views.py; path = ../views.py; sourceTree = "<group>"; };
+		8E238E0B1C629166001E4893 /* routing.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = routing.py; path = ../routing.py; sourceTree = "<group>"; };
+		8E238E0C1C62982A001E4893 /* input.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = input.html; path = ../templates/input.html; sourceTree = "<group>"; };
+		8E238E0D1C62982A001E4893 /* output.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = output.html; path = ../templates/output.html; sourceTree = "<group>"; };
+		8E6437351C63F5DE0024175B /* ManhattanYelp.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = ManhattanYelp.py; path = ../ManhattanYelp.py; sourceTree = "<group>"; };
+		8E6437371C64DCC80024175B /* start.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = start.html; path = ../templates/start.html; sourceTree = "<group>"; };
+		8E6437381C64EC150024175B /* interestme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = interestme.html; path = ../templates/interestme.html; sourceTree = "<group>"; };
+		8E64373A1C64F1960024175B /* nearme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = nearme.html; path = ../templates/nearme.html; sourceTree = "<group>"; };
+		8E64373B1C6502B90024175B /* output_interestme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = output_interestme.html; path = ../templates/output_interestme.html; sourceTree = "<group>"; };
+		8E64373C1C6505C50024175B /* output_nearme.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = output_nearme.html; path = ../templates/output_nearme.html; sourceTree = "<group>"; };
+		8E64373E1C68BC430024175B /* output_nearme_backup.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = output_nearme_backup.html; path = ../templates/output_nearme_backup.html; sourceTree = "<group>"; };
+		8E64373F1C68D45C0024175B /* except.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = except.html; path = ../templates/except.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		8E238DFC1C6290DD001E4893 = {
+			isa = PBXGroup;
+			children = (
+				8E6437351C63F5DE0024175B /* ManhattanYelp.py */,
+				8E238E071C629166001E4893 /* ScrapingTheSkint.py */,
+				8E238E081C629166001E4893 /* views.py */,
+				8E64373F1C68D45C0024175B /* except.html */,
+				8E238E0C1C62982A001E4893 /* input.html */,
+				8E238E0D1C62982A001E4893 /* output.html */,
+				8E64373A1C64F1960024175B /* nearme.html */,
+				8E64373C1C6505C50024175B /* output_nearme.html */,
+				8E64373E1C68BC430024175B /* output_nearme_backup.html */,
+				8E6437381C64EC150024175B /* interestme.html */,
+				8E64373B1C6502B90024175B /* output_interestme.html */,
+				8E6437371C64DCC80024175B /* start.html */,
+				8E238E0B1C629166001E4893 /* routing.py */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		8E238E011C6290DD001E4893 /* App */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 8E238E041C6290DD001E4893 /* Build configuration list for PBXLegacyTarget "App" */;
+			buildPhases = (
+			);
+			buildToolPath = /Users/sahba/anaconda/bin/ipython;
+			buildWorkingDirectory = /Users/sahba/app/App;
+			dependencies = (
+			);
+			name = App;
+			passBuildSettingsInEnvironment = 1;
+			productName = App;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		8E238DFD1C6290DD001E4893 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Sahba Yahya";
+				TargetAttributes = {
+					8E238E011C6290DD001E4893 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 8E238E001C6290DD001E4893 /* Build configuration list for PBXProject "App" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8E238DFC1C6290DD001E4893;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8E238E011C6290DD001E4893 /* App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		8E238E021C6290DD001E4893 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		8E238E031C6290DD001E4893 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+			};
+			name = Release;
+		};
+		8E238E051C6290DD001E4893 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUGGING_SYMBOLS = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8E238E061C6290DD001E4893 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8E238E001C6290DD001E4893 /* Build configuration list for PBXProject "App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E238E021C6290DD001E4893 /* Debug */,
+				8E238E031C6290DD001E4893 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8E238E041C6290DD001E4893 /* Build configuration list for PBXLegacyTarget "App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E238E051C6290DD001E4893 /* Debug */,
+				8E238E061C6290DD001E4893 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8E238DFD1C6290DD001E4893 /* Project object */;
+}

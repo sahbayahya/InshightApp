@@ -1,0 +1,1038 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.05354667999999663, 
+            "longitude_delta": 0.05525739735966795
+        }, 
+        "center": {
+            "latitude": 40.8416697, 
+            "longitude": -73.94435739879985
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/kazza-wine-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 28, 
+            "name": "Kazza Wine Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/kazza-wine-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Tapas Bars", 
+                    "tapas"
+                ]
+            ], 
+            "phone": "6464767887", 
+            "snippet_text": "Kazza is the only place I want to be when hanging in my hood. I love the atmosphere, the vibes, the music (via DJ or Live), and the people. The staff are...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/Gzpsjb7dT4kZusY1YqGzcw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/XUYPbINEk4BRa2Vhbi8XWA/ms.jpg", 
+            "display_phone": "+1-646-476-7887", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "kazza-wine-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "708 W 177 St", 
+                    "Washington Heights", 
+                    "New York, NY 10033"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10033", 
+                "country_code": "US", 
+                "address": [
+                    "708 W 177 St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8474998, 
+                    "longitude": -73.9388504
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/harlem-nights-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 26, 
+            "name": "Harlem Nights", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/harlem-nights-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "phone": "6468204603", 
+            "snippet_text": "After a friend and fellow eliter raved about this place, I came across an article online which highlighted the fact that the owner is a former bartender and...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/HSYQLvdR2u6E2L1fOqpHpA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/ffZ_L3kD9KPtu6VE7GSKKw/ms.jpg", 
+            "display_phone": "+1-646-820-4603", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "harlem-nights-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "138th St & 139th St", 
+                "city": "New York", 
+                "display_address": [
+                    "2361 7th Ave", 
+                    "Harlem", 
+                    "New York, NY 10030"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Harlem"
+                ], 
+                "postal_code": "10030", 
+                "country_code": "US", 
+                "address": [
+                    "2361 7th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8172982186079, 
+                    "longitude": -73.9420799911022
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-beer-spot-and-grill-fort-lee?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 38, 
+            "name": "The Beer Spot and Grill", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-beer-spot-and-grill-fort-lee?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (New)", 
+                    "newamerican"
+                ], 
+                [
+                    "Beer Bar", 
+                    "beerbar"
+                ]
+            ], 
+            "phone": "2014619740", 
+            "snippet_text": "If you love beer or love craft beer or a beer snob; The Beer Spot and Grill is your kinda place. This place is full of choices. Lots and lots of choices....", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/tiZAunUmFqxMyHTMDKfrLw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/aj4VhPSUlsvMJ7IBof0eyA/ms.jpg", 
+            "display_phone": "+1-201-461-9740", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "the-beer-spot-and-grill-fort-lee", 
+            "is_closed": false, 
+            "location": {
+                "city": "Fort Lee", 
+                "display_address": [
+                    "2027 Lemoine Ave", 
+                    "Fort Lee, NJ 07024"
+                ], 
+                "geo_accuracy": 9.5, 
+                "postal_code": "07024", 
+                "country_code": "US", 
+                "address": [
+                    "2027 Lemoine Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.852754440295, 
+                    "longitude": -73.9694743975997
+                }, 
+                "state_code": "NJ"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/jazz-at-marjorie-eliots-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 10, 
+            "name": "Jazz at Marjorie Eliot's", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/jazz-at-marjorie-eliots-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Jazz & Blues", 
+                    "jazzandblues"
+                ]
+            ], 
+            "phone": "2127816595", 
+            "snippet_text": "It was a sunny and probably the last warm Sunday before winter comes.  My friends and I spent a wonderful afternoon at Ms. Marjorie Eliot's historic...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/ADFoKybuTlo-bd-7-C46Sg/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/qE_pgxcqM4QOQVM-LEZx1A/ms.jpg", 
+            "display_phone": "+1-212-781-6595", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "jazz-at-marjorie-eliots-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "555 Edgecombe Ave", 
+                    "Washington Heights", 
+                    "New York, NY 10032"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10032", 
+                "country_code": "US", 
+                "address": [
+                    "555 Edgecombe Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8336556702852, 
+                    "longitude": -73.9387875795364
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/corcho-wine-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 106, 
+            "name": "Corcho Wine Room", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/corcho-wine-room-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Tapas Bars", 
+                    "tapas"
+                ]
+            ], 
+            "phone": "2122033371", 
+            "snippet_text": "We really had a good time. The staff is looooooovelyyyyyy! \nGuava sangria is a must.\nThe kitchen was out of service but they got us some food from the...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/XPnN9TfUVqdwhwKbgoacPQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/Aop5rVqoaYJ5iNP5Efj3nw/ms.jpg", 
+            "display_phone": "+1-212-203-3371", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "corcho-wine-room-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "231 Dykman St", 
+                    "Washington Heights", 
+                    "New York, NY 10034"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights", 
+                    "Inwood"
+                ], 
+                "postal_code": "10034", 
+                "country_code": "US", 
+                "address": [
+                    "231 Dykman St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8659935, 
+                    "longitude": -73.9275665
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/tryon-public-house-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 138, 
+            "name": "Tryon Public House", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/tryon-public-house-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ], 
+                [
+                    "Gastropubs", 
+                    "gastropubs"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6469187129", 
+            "snippet_text": "This place opened about a year ago. It's right off the A train which is pretty convinient. My friends were all excited about the craft beer here - they say...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/DRILJuJd9sJv15Af8bxeXg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/PjTBQj6g5fPZmTtAVsslzg/ms.jpg", 
+            "display_phone": "+1-646-918-7129", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "tryon-public-house-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Sherman Ave & Dongan Pl", 
+                "city": "New York", 
+                "display_address": [
+                    "4740 Broadway", 
+                    "Washington Heights", 
+                    "New York, NY 10040"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10040", 
+                "country_code": "US", 
+                "address": [
+                    "4740 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.864894, 
+                    "longitude": -73.927665
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/castro-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 15, 
+            "name": "Castro Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/castro-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Gay Bars", 
+                    "gaybars"
+                ]
+            ], 
+            "snippet_text": "They cool but it's Wednesday and I have arthritis and they took the bar stool ;/ really!! That's handi-capped. So now I have to stand for the remainder of...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/KLVOKEBOZFJNrZ1gc5-naA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/bPNWOk9pZq8uwutLaILhZQ/ms.jpg", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "castro-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Post Ave & Nagle Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "104 Dyckman St", 
+                    "Washington Heights", 
+                    "New York, NY 10040"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10040", 
+                "country_code": "US", 
+                "address": [
+                    "104 Dyckman St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8618729, 
+                    "longitude": -73.9249231
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/le-chéile-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 227, 
+            "name": "Le Chéile", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/le-chéile-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Irish", 
+                    "irish"
+                ], 
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "menu_date_updated": 1452464798, 
+            "phone": "2127403111", 
+            "snippet_text": "My sister and I come here often. This is a very unique little restaurant and bar! The food is amazing and the staff was friendly. It has an interesting vibe...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/aWRwzisjskuYAJKePS58_g/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/rFh2NLlRlIHkcwfoV4OI_Q/ms.jpg", 
+            "display_phone": "+1-212-740-3111", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "le-chéile-new-york-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Plaza Lafayette & Cabrini Blvd", 
+                "city": "New York", 
+                "display_address": [
+                    "839 W 181st St", 
+                    "Washington Heights", 
+                    "New York, NY 10033"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10033", 
+                "country_code": "US", 
+                "address": [
+                    "839 W 181st St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8514803804586, 
+                    "longitude": -73.9399689480721
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/locksmith-burger-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 193, 
+            "name": "Locksmith Burger Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/locksmith-burger-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Burgers", 
+                    "burgers"
+                ]
+            ], 
+            "menu_date_updated": 1442017899, 
+            "phone": "2123049463", 
+            "snippet_text": "Very small place with an amazing atmosphere. Both times I've been here I've had a great time. The DJ plays great music, including throwbacks and the staff...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/VX-aq0deZ1neGUfeTC9B4w/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/mXGq-3F-zDWZzBy0vipARw/ms.jpg", 
+            "display_phone": "+1-212-304-9463", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "locksmith-burger-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Fairview Ave & 192nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "4463 Broadway", 
+                    "Washington Heights", 
+                    "New York, NY 10040"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10040", 
+                "country_code": "US", 
+                "address": [
+                    "4463 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8572664856911, 
+                    "longitude": -73.9324099570513
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/809-sangria-bar-and-grill-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 88, 
+            "name": "809 Sangria Bar & Grill", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/809-sangria-bar-and-grill-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/Qq_YecqcQ8dhC1P-SWXPOQ/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Latin American", 
+                    "latin"
+                ], 
+                [
+                    "Spanish", 
+                    "spanish"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2123043800", 
+            "snippet_text": "I love this place! Food is always delicious and service is fast. \nPlace is clean, big nice tables and a bar right across the dining area. \nIf you are...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/_zB2QzY2yKV6MTr4vjRzgw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/QtbwLJff32PLqZYEAm5T6g/ms.jpg", 
+            "display_phone": "+1-212-304-3800", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "809-sangria-bar-and-grill-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Post Ave & Nagle Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "112 Dyckman St", 
+                    "Washington Heights", 
+                    "New York, NY 10040"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10040", 
+                "country_code": "US", 
+                "address": [
+                    "112 Dyckman St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.86197, 
+                    "longitude": -73.9252
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/agua-roja-hookah-bar-and-lounge-manhattan?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 17, 
+            "name": "Agua Roja Hookah Bar & Lounge", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/agua-roja-hookah-bar-and-lounge-manhattan?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Hookah Bars", 
+                    "hookah_bars"
+                ], 
+                [
+                    "Burgers", 
+                    "burgers"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "6465590440", 
+            "snippet_text": "Love this place. \nGood vibe, good food, Good music.\nThe drinks are cheap and of good quality.\nI usually went for Thursday happy hours , cant drink for a...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/klqDY2GnsVJ0Z8m2nDViWw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/RUNyWbHo51V-16CFh1kRmQ/ms.jpg", 
+            "display_phone": "+1-646-559-0440", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "agua-roja-hookah-bar-and-lounge-manhattan", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Academy St & Dyckman St", 
+                "city": "Manhattan", 
+                "display_address": [
+                    "212 Nagle Ave", 
+                    "Washington Heights", 
+                    "Manhattan, NY 10034"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights", 
+                    "Inwood"
+                ], 
+                "postal_code": "10034", 
+                "country_code": "US", 
+                "address": [
+                    "212 Nagle Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8623695, 
+                    "longitude": -73.922966
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/dyckman-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 49, 
+            "name": "Dyckman Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/dyckman-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "6463603018", 
+            "snippet_text": "Lots of fun!\nSo a few weeks ago I came back to Dyckman bar with some of the fellas. Great time. \nIt was packed but the music was great. Nice drinks and...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/9UFAVSFMPynH6AQK5xeQEQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/NnbHEp5oSLNDMkN_ulsL0A/ms.jpg", 
+            "display_phone": "+1-646-360-3018", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "dyckman-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & Riverside Dr", 
+                "city": "New York", 
+                "display_address": [
+                    "221 Dyckman St", 
+                    "Washington Heights", 
+                    "New York, NY 10034"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights", 
+                    "Inwood"
+                ], 
+                "postal_code": "10034", 
+                "country_code": "US", 
+                "address": [
+                    "221 Dyckman St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8658239146352, 
+                    "longitude": -73.9273272142015
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/las-tapas-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 62, 
+            "name": "Las Tapas", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/ErLvculzR07OtMqRUjeNNQ/ms.jpg", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/las-tapas-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "Pinehurst Ave & Fort Washington Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "808 W 187th St", 
+                    "Washington Heights", 
+                    "New York, NY 10033"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10033", 
+                "country_code": "US", 
+                "address": [
+                    "808 W 187th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8551025, 
+                    "longitude": -73.9373093
+                }, 
+                "state_code": "NY"
+            }, 
+            "menu_date_updated": 1450518011, 
+            "phone": "6465900142", 
+            "snippet_text": "Literally stumbled upon this lovely little spot on a walk to the park with my mom. I always walk up the stairs on 187 and go right to Fort Tryon, but today...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/7zLcvG6GGzf_kwqESW1HJA/ms.jpg", 
+            "categories": [
+                [
+                    "Spanish", 
+                    "spanish"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "display_phone": "+1-646-590-0142", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "eat24", 
+            "id": "las-tapas-new-york", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/40981?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi"
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/buddha-beer-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 158, 
+            "name": "Buddha Beer Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/buddha-beer-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Beer Bar", 
+                    "beerbar"
+                ]
+            ], 
+            "menu_date_updated": 1452385914, 
+            "phone": "6468612595", 
+            "snippet_text": "Everyone loves the wings (which are lovable), but the Brussel sprouts, calamari, and Korean style tacos are my favorite thing on the menu. \n\nThe burgers are...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/2vLgaah5wXmqMUG4Zvfu2Q/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/Ot2H_8_wuwFDsufNqLOeQQ/ms.jpg", 
+            "display_phone": "+1-646-861-2595", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "buddha-beer-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Fairview Ave & 192nd St", 
+                "city": "New York", 
+                "display_address": [
+                    "4476 Broadway", 
+                    "Washington Heights", 
+                    "New York, NY 10040"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10040", 
+                "country_code": "US", 
+                "address": [
+                    "4476 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8572686322995, 
+                    "longitude": -73.9322152056469
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/new-leaf-restaurant-and-bar-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 300, 
+            "name": "New Leaf Restaurant & Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/new-leaf-restaurant-and-bar-new-york-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "menu_date_updated": 1442231733, 
+            "phone": "2125685323", 
+            "snippet_text": "It's a solid place for brunch. I took my mom here on a Sunday right when it opened. I would suggest making a reservation to guarantee seating because the...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/2CB-0lmo0ol4IQhxWB_LQg/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/BNBFc9KKltOdiQUtcJueCA/ms.jpg", 
+            "display_phone": "+1-212-568-5323", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "new-leaf-restaurant-and-bar-new-york-3", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "Fort Tryon Park", 
+                    "1 Margaret Corbin Dr", 
+                    "Washington Heights", 
+                    "New York, NY 10040"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10040", 
+                "country_code": "US", 
+                "address": [
+                    "Fort Tryon Park", 
+                    "1 Margaret Corbin Dr"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8634422719479, 
+                    "longitude": -73.9324240386486
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/21-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 13, 
+            "name": "21 Bar", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/21-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "9179752690", 
+            "snippet_text": "This is the best place I've ever been to. Drinks are strong, girls are cute and curvy, and I had so much amazing booty in my face. Will definitely go back!", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-917-975-2690", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "21-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "184th St & 183rd St", 
+                "city": "New York", 
+                "display_address": [
+                    "4318 Broadway", 
+                    "Washington Heights", 
+                    "New York, NY 10033"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10033", 
+                "country_code": "US", 
+                "address": [
+                    "4318 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8520743995905, 
+                    "longitude": -73.9347139745951
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/viva-tapas-bar-and-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 18, 
+            "name": "Viva Tapas Bar and Lounge", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/viva-tapas-bar-and-lounge-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2125671084", 
+            "snippet_text": "There was a happy hour being hosted here by a sorority which my friends invited me to.\n\nI've never been to this place, but I did check out some pictures on...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/Nv_jnFdygajR6BkKrMCenA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/mXGq-3F-zDWZzBy0vipARw/ms.jpg", 
+            "display_phone": "+1-212-567-1084", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "viva-tapas-bar-and-lounge-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "65 Sherman Ave", 
+                    "Washington Heights", 
+                    "New York, NY 10034"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10034", 
+                "country_code": "US", 
+                "address": [
+                    "65 Sherman Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8631406, 
+                    "longitude": -73.9266804
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/cocina-taller-manhattan?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 20, 
+            "name": "Cocina Taller", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/cocina-taller-manhattan?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Mediterranean", 
+                    "mediterranean"
+                ], 
+                [
+                    "Champagne Bars", 
+                    "champagne_bars"
+                ]
+            ], 
+            "menu_date_updated": 1442207993, 
+            "phone": "2123040860", 
+            "snippet_text": "I had brunch here with a group of girls for my friends birthday brunch. I may say being that it was my first time dinning here & the food was actually good....", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/IsNZfwXjQi4bXPgW-BUbAQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/U6ftz7EDwd5uwdWpNZkF2A/ms.jpg", 
+            "display_phone": "+1-212-304-0860", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "cocina-taller-manhattan", 
+            "is_closed": false, 
+            "location": {
+                "city": "Manhattan", 
+                "display_address": [
+                    "416 B W 203rd St", 
+                    "Washington Heights", 
+                    "Manhattan, NY 10034"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights", 
+                    "Inwood"
+                ], 
+                "postal_code": "10034", 
+                "country_code": "US", 
+                "address": [
+                    "416 B W 203rd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8613062, 
+                    "longitude": -73.9192404
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "rating": 3.5, 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "display_phone": "+1-212-567-4800", 
+            "id": "sushi-mambo-new-york-2", 
+            "is_closed": false, 
+            "eat24_url": "http://e24.io/r/43357?utm_campaign=public&utm_medium=yelpapi&utm_source=yelpapi", 
+            "mobile_url": "http://m.yelp.com/biz/sushi-mambo-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "review_count": 46, 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/4uR2PQVDUFkml9-9QbspFw/ms.jpg", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/3sQPGzWl0PMi2ULZ4DbEAg/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "location": {
+                "cross_streets": "10th Ave & 9th Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "431 W 202nd St", 
+                    "Washington Heights", 
+                    "New York, NY 10034"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Washington Heights", 
+                    "Inwood"
+                ], 
+                "postal_code": "10034", 
+                "country_code": "US", 
+                "address": [
+                    "431 W 202nd St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.8611047435674, 
+                    "longitude": -73.9203899705696
+                }, 
+                "state_code": "NY"
+            }, 
+            "is_claimed": true, 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "phone": "2125674800", 
+            "snippet_text": "One of my friends was hosting a birthday dinner here and I can definitely say this isn't the ideal place for a big group. The tables were all too close to...", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "categories": [
+                [
+                    "Sushi Bars", 
+                    "sushi"
+                ], 
+                [
+                    "Japanese", 
+                    "japanese"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "name": "Sushi Mambo", 
+            "url": "http://www.yelp.com/biz/sushi-mambo-new-york-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/clCgmS8l8kI3w1rqJZbcVA/ms.jpg", 
+            "menu_provider": "eat24", 
+            "menu_date_updated": 1442078234
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/el-nuevo-jobo-restaurant-and-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 17, 
+            "name": "El Nuevo Jobo Restaurant & Bar", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/el-nuevo-jobo-restaurant-and-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Spanish", 
+                    "spanish"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2127401616", 
+            "snippet_text": "The Churrasco is absolutely amazing. So flavorful! The place is pretty loud with music.  However we did go on a Friday so the afterwork pay day crowd was in...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/3FleDgTpTNtVdTDdNcqmSg/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/jCue4eVj0Nuf4RPpJ0BJuA/ms.jpg", 
+            "display_phone": "+1-212-740-1616", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "el-nuevo-jobo-restaurant-and-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "164th St & 163rd St", 
+                "city": "New York", 
+                "display_address": [
+                    "3915 Broadway", 
+                    "Washington Heights", 
+                    "New York, NY 10032"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Washington Heights"
+                ], 
+                "postal_code": "10032", 
+                "country_code": "US", 
+                "address": [
+                    "3915 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 40.838421, 
+                    "longitude": -73.942261
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Le'ggo</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.4.0/leaflet-geocoder-mapzen.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.4.0/leaflet-geocoder-mapzen.js"></script>
+<style>
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 700px;
+        height: 500px;
+        background-position: 50% 50%;
+        background-repeat:   no-repeat;
+        background-size:     cover;
+        margin: auto;
+    }
+</style>
+
+
+ </head>
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Home</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Events going on tonight</a></li>
+                <li><a href="/nearme">Hot clubs nearby</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+
+<br><br>
+
+  <div class="container">
+
+    <div class="starter-template">
+        <h2>Le'ggo Tonight</h2>
+        <p>Search for stuff to do tonight in Manhattan</p>
+    </div>
+
+    <div class = "container">
+
+      <form  action="/output" method="GET">
+      
+        <!--div class="form-group">
+          <label for="location"> Where you want to party:</label>
+          <input type="text" id="location" name='location' placeholder="e.g. Kitchen Hell's">
+        </div-->
+        
+        
+        
+        
+        </div>
+        <div class="form-group">
+        <label for="events">Find:</label>
+			 <select name="events">		
+                    {% for item in index %}
+                        <option value={{item}} id="events" name="events">{{item}}</option>
+                    {% endfor %}
+             </select>    
+		</div>
+        
+			
+        <!--div class="form-group">
+          <label for="events"> I like:</label>
+          <input type="text" id="events" name='events' placeholder="e.g. comedy">
+        </div-->
+        
+          <!--div class="form-group">
+          <label for="Nightlife"> Favorite club:</label>
+          <input type="text" id="Nightlife" name='Nightlife' placeholder="e.g. club 13 ">
+        </div-->
+        
+        <div>
+          <button type="submit" class="btn btn-default btn-lg">Find!</button>
+        </div>
+      </form>
+    </div>
+
+
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+
+  </div> <!-- /.container-->
+  
+  <div class="container">
+      <br>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+              <li data-target="#myCarousel" data-slide-to="3"></li>
+              <li data-target="#myCarousel" data-slide-to="4"></li>
+          </ol>
+          
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+              
+              <div class="item active">
+                  <img src="http://assets.vice.com/content-images/contentimage/no-slug/b8218afbca76aeff71b508bf3829b0dd.jpg" alt="Chania" width="460" height="345">
+                      <div class="carousel-caption">
+                          <h3>Stand Up Comedy</h3>
+                      </div>
+                      </div>
+              
+              <div class="item">
+                  <img src="http://videologybarandcinema.com/wp-content/uploads/2015/07/Trivia_007_edit.jpg" alt="Chania" width="460" height="345">
+                      <div class="carousel-caption">
+                          <h3>Trivia</h3>
+                      </div>
+                      </div>
+              
+              <div class="item">
+                  <img src="http://cdn.earthporm.com/wp-content/uploads/2014/07/New-York-City-U.S.A.-2.jpg" alt="Flower" width="460" height="345">
+                      <div class="carousel-caption">
+                          <h3>Street Art</h3>
+                      </div>
+                      </div>
+              
+              <div class="item">
+                  <img src="http://www.saic.edu/media/saic/gfx/academics/studyabroad/winter2014/nyc/nyc_slideshow_badge.jpg" alt="Flower" width="460" height="345">
+                      <div class="carousel-caption">
+                          <h3>Exhibitions</h3>
+                      </div>
+                      </div>
+              <div class="item">
+                  <img src="http://www.stephenfriedman.com/serveas/stephen_friedman_gallery_2011-09-02-03665113149813461314983026.jpg/1920/1080
+" alt="Flower" width="460" height="345">
+                      <div class="carousel-caption">
+                          <h3>Gallery</h3>
+                      </div>
+                      </div>
+              
+              
+          </div>
+          
+          <!-- Left and right controls -->
+          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+      </div>
+  </div>
+
+
+<!--div id="map">
+    <script>
+        var map = L.map('map').setView([40.7598855,-73.9916349], 12);
+        var marker = L.marker([40.7598855,-73.9916349]).addTo(map);
+        var polygon = L.polygon([[51.509, -0.08],
+                                 [51.503, -0.06],
+                                 [51.51, -0.047]]).addTo(map);
+                                 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                                             attribution: '&copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+                                             }).addTo(map);
+        </script>
+</div-->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+
+

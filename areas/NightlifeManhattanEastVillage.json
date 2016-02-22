@@ -1,0 +1,1017 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.009793148911157346, 
+            "longitude_delta": 0.012267887592400939
+        }, 
+        "center": {
+            "latitude": 40.72692903132325, 
+            "longitude": -73.9834275841713
+        }
+    }, 
+    "total": 40, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/lois-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 24, 
+            "name": "Lois", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/lois-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "2124751400", 
+            "snippet_text": "YAS this place. Great wine bar. All I ask for a night out drinking is a cool spot, enough people but not crowded, and tasty drinks to match. Lois is...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/YALZF8ZWN13_z5w_ip5JJg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/bnETYebPHqqmeZ_bijGxeg/ms.jpg", 
+            "display_phone": "+1-212-475-1400", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "lois-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "98 Loisaida Ave", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "98 Loisaida Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7237175, 
+                    "longitude": -73.9789176
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/bibi-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 81, 
+            "name": "bibi", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/bibi-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "2126732424", 
+            "snippet_text": "Quaint and cozy wine bar with great deals and delicious food. Our waiter was helpful and attentive. I really appreciated that no one was rushing you out the...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/iUNhe88B2FAqpvpMecNzCw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/8ACeIj-AalfqKfUjcP1kNg/ms.jpg", 
+            "display_phone": "+1-212-673-2424", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "bibi-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue B & Avenue A", 
+                "city": "New York", 
+                "display_address": [
+                    "211 E 4th St", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "211 E 4th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.723937, 
+                    "longitude": -73.983519
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/drexlers-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 24, 
+            "name": "Drexler's", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/drexlers-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6465245226", 
+            "snippet_text": "Passed by on a Wednesday night, and the doorway just called our names. It is rather spacious, just-dark-enough, and low-key. There is booth and bar (a very...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/V4Tq9zkmudaqZdDPdTAJkA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/Pe5QMekh0NtspY_Mk_UsMg/ms.jpg", 
+            "display_phone": "+1-646-524-5226", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "drexlers-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "9 Ave A", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "9 Ave A"
+                ], 
+                "coordinate": {
+                    "latitude": 40.722663, 
+                    "longitude": -73.986328
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-wayland-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 319, 
+            "name": "The Wayland", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-wayland-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1442098190, 
+            "phone": "2127777022", 
+            "snippet_text": "It is unrealistic to expect a five-star experience at a packed and popular cocktail bar on at 11:30pm on New Year's Eve, but The Wayland delivered...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/k2FDaS64WoSMoWUKnQ3nEQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/-VlOAizuO5fdhStn04a8Gw/ms.jpg", 
+            "display_phone": "+1-212-777-7022", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-wayland-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue C & Avenue D", 
+                "city": "New York", 
+                "display_address": [
+                    "700 E 9th St", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "700 E 9th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7251837849617, 
+                    "longitude": -73.9778512716293
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/juke-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 105, 
+            "name": "Juke Bar", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/juke-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1442172262, 
+            "phone": "2122287464", 
+            "snippet_text": "Let me emphasize how hard it is to find a place in east village that offers a great happy hour menu and allows you to conversate with a friend without...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/GCtsmQjNBXRDB7R0DEj7Aw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/joJpyHHET8hRsDiLdqhCQA/ms.jpg", 
+            "display_phone": "+1-212-228-7464", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "juke-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "196 2nd Ave", 
+                    "East Village", 
+                    "New York, NY 10003"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "10003", 
+                "country_code": "US", 
+                "address": [
+                    "196 2nd Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7311912626028, 
+                    "longitude": -73.9857168495655
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/alphabet-city-beer-company-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 138, 
+            "name": "Alphabet City Beer Company", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/alphabet-city-beer-company-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Beer, Wine & Spirits", 
+                    "beer_and_wine"
+                ]
+            ], 
+            "phone": "6464227103", 
+            "snippet_text": "Great place to grab a beer or two and just relax with some friends ( or on your own). \nThey have rotating drafts which is fun because you never know what...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/oeorhQ-e6MdpQqOqrCia0w/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/OiLcHFpwW9Sr0EAHmfsPHw/ms.jpg", 
+            "display_phone": "+1-646-422-7103", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "alphabet-city-beer-company-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "96 Ave C", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "96 Ave C"
+                ], 
+                "coordinate": {
+                    "latitude": 40.723652, 
+                    "longitude": -73.978836
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-immigrant-tap-room-new-york-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 21, 
+            "name": "The Immigrant Tap Room", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-immigrant-tap-room-new-york-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/rihL64ooVkE5rWKHqYC_WA/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6463081724", 
+            "snippet_text": "Really enjoyed this place. My friend and I came here after walking around for a place to go after a show and it totally took us by surprise. \n\nThe...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/YNK7_PCPY70aFHmEr5nEUA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/jKR3h_7olWF4WGcbpmAW2g/ms.jpg", 
+            "display_phone": "+1-646-308-1724", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "the-immigrant-tap-room-new-york-4", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "1st Ave & 2nd Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "341 E 9th St", 
+                    "East Village", 
+                    "New York, NY 10003"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "10003", 
+                "country_code": "US", 
+                "address": [
+                    "341 E 9th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.728622, 
+                    "longitude": -73.985325
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/angels-share-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 1495, 
+            "name": "Angel's Share", 
+            "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/angels-share-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Japanese", 
+                    "japanese"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2127775415", 
+            "snippet_text": "Smoke Gets In You Eyes (yes, like the song by the Platters) is definitely the most popular drink. Within 2 hours, I counted 4 glasses of smoke. It is a...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/JTQgW8KBBZxh4Lg-brnydw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/goLcGcF-HUn5gwyh6CMn5Q/ms.jpg", 
+            "display_phone": "+1-212-777-5415", 
+            "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "angels-share-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "Village Yokocho", 
+                    "8 Stuyvesant St", 
+                    "East Village", 
+                    "New York, NY 10003"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "10003", 
+                "country_code": "US", 
+                "address": [
+                    "Village Yokocho", 
+                    "8 Stuyvesant St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7298035870577, 
+                    "longitude": -73.9890038967133
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-summit-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 321, 
+            "name": "The Summit Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-summit-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ]
+            ], 
+            "phone": "3474657911", 
+            "snippet_text": "I've been coming to The Summit for years. As I said in a previous review, it is my favorite cocktail bar in NYC. Not only is it congenial and patronized by...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/l7K3veQvdqQfGQHiVTnAiA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/3maQiPzb5tLA2oMI05tqIA/ms.jpg", 
+            "display_phone": "+1-347-465-7911", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-summit-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "133 Ave C", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "133 Ave C"
+                ], 
+                "coordinate": {
+                    "latitude": 40.725028, 
+                    "longitude": -73.978469
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/b-side-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 86, 
+            "name": "B Side", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/b-side-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ]
+            ], 
+            "phone": "2124754600", 
+            "snippet_text": "A date introduced me to this bar. \n\nThis bar is the ONLY bar that I would feel comfortable walking into and having a drink by myself. Everyone is so sweet...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/-XKJDfxjwO1Z6CHN3gH79w/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/OUeDm7RuWQxeo6yrYCt26A/ms.jpg", 
+            "display_phone": "+1-212-475-4600", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "b-side-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "204 Ave B", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "204 Ave B"
+                ], 
+                "coordinate": {
+                    "latitude": 40.728454, 
+                    "longitude": -73.978988
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/proletariat-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 212, 
+            "name": "Proletariat", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/proletariat-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Beer Bar", 
+                    "beerbar"
+                ]
+            ], 
+            "phone": "2127776707", 
+            "snippet_text": "What took me so long to visit Proletariat? I live down the street, yet it took me 2 years in the hood to stop in for a beer - and then only because the...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/ubXqxFroKiZwJ_gAN_XSzA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/EUqVqNmAh2iSuxT4dtfgRQ/ms.jpg", 
+            "display_phone": "+1-212-777-6707", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "proletariat-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue A & 1st Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "102 St Marks Pl", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "102 St Marks Pl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7272506368689, 
+                    "longitude": -73.9845192432404
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-immigrant-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 275, 
+            "name": "The Immigrant", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-immigrant-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "reservation_url": "https://www.seatme.yelp.com/r/biz/lvbhH1AR8KCUCkNtLFAA7A/?locale=en_US&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "6463081724", 
+            "snippet_text": "I went to The Immigrant last night to celebrate wine week with some ladies and had an awesome time. \n\nI'd been worried that the small space would prove too...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/RR6e9Flzur-FRBXq3x912g/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/P44rLJEx_nkP73YdoCbPnQ/ms.jpg", 
+            "display_phone": "+1-646-308-1724", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-immigrant-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "1st Ave & 2nd Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "341 E 9th St", 
+                    "East Village", 
+                    "New York, NY 10003"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "10003", 
+                "country_code": "US", 
+                "address": [
+                    "341 E 9th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.728622, 
+                    "longitude": -73.985329
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/double-wide-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 139, 
+            "name": "Double Wide", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/double-wide-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Southern", 
+                    "southern"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Breakfast & Brunch", 
+                    "breakfast_brunch"
+                ]
+            ], 
+            "menu_date_updated": 1442094926, 
+            "phone": "9172616461", 
+            "snippet_text": "This place is the best. A banging sweet tea vodka drink, great weekly specials and delicious food. I'm not huge on chicken and waffles but their's hit the...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/smm0X0yVD8b1WyoTr-rgXA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/X_uHMKNKp_lw3KxC9IWWpg/ms.jpg", 
+            "display_phone": "+1-917-261-6461", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "double-wide-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue B & Avenue A", 
+                "city": "New York", 
+                "display_address": [
+                    "505 E 12th St", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "505 E 12th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.729039, 
+                    "longitude": -73.980841
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/augurs-well-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 52, 
+            "name": "Augurs Well", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/augurs-well-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ], 
+                [
+                    "Burgers", 
+                    "burgers"
+                ]
+            ], 
+            "snippet_text": "Pretty hipster spot (think PNW hipster) but any place with Chimay available has my heart. Small beer list, but they make it count. \n\nSuper cute, cozy and...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/l5exmxDCzU77DAABSXA_zA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/FVV7R6yF7EP5ZKInbpE3LA/ms.jpg", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "augurs-well-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue A & 1st Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "115 St Marks Pl", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "115 St Marks Pl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7271194, 
+                    "longitude": -73.9836121
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/nublu-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 84, 
+            "name": "Nublu", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/nublu-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "phone": "6465465206", 
+            "snippet_text": "Nublu has always great music with different talented bands. Great customer service. Wednesday, Friday and Saturday are favorites days Nublu. \n\nKesinlikle...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/zqZZh_AP6Pn3xMqa7yKADw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/-m5n52UDyDlAFBvt80bBAg/ms.jpg", 
+            "display_phone": "+1-646-546-5206", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "nublu-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "62 Ave C", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "62 Ave C"
+                ], 
+                "coordinate": {
+                    "latitude": 40.722507, 
+                    "longitude": -73.979675
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/11th-street-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 116, 
+            "name": "11th Street Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/11th-street-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ]
+            ], 
+            "phone": "2129823929", 
+            "snippet_text": "Yup, gotta say it... loved this Irish bar/neighborhood dive.  Great service by Danny.  Streets of the city were swarmed by holiday tourists, but this place...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/vq-FaR6G7doGQnhvAOGqng/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-212-982-3929", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "11th-street-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue B & Avenue A", 
+                "city": "New York", 
+                "display_address": [
+                    "510 E 11th St", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "510 E 11th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7280197, 
+                    "longitude": -73.9812775
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/shoolbreds-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 237, 
+            "name": "Shoolbred's", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/shoolbreds-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2125290340", 
+            "snippet_text": "pretty good Happy Hour, and you can take your little wooden token with you and use it next time!\nreally cute decor, it reminds me of my parent's basement...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/f9krpRDu3XDmhc9UDl2QCQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/CrCug58vtD-QsOIyQAp5-w/ms.jpg", 
+            "display_phone": "+1-212-529-0340", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "shoolbreds-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "13th St & 12th St", 
+                "city": "New York", 
+                "display_address": [
+                    "197 2nd Ave", 
+                    "East Village", 
+                    "New York, NY 10003"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "10003", 
+                "country_code": "US", 
+                "address": [
+                    "197 2nd Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7313804626465, 
+                    "longitude": -73.9860229492188
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/keybar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 452, 
+            "name": "Keybar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/keybar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2124783021", 
+            "snippet_text": "I have only ever been here during happy hour. It's a very relaxing place and very pretty inside. Their happy hour is 2-4-1 but the reason it gets four stars...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/oPRpRKDwQaK3g_0MHAQ0Ow/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/OiLcHFpwW9Sr0EAHmfsPHw/ms.jpg", 
+            "display_phone": "+1-212-478-3021", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "keybar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Avenue A & 1st Ave", 
+                "city": "New York", 
+                "display_address": [
+                    "432 E 13th St", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "432 E 13th St"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7300334907642, 
+                    "longitude": -73.9818279024468
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/international-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 189, 
+            "name": "International Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/international-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ], 
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2127771643", 
+            "snippet_text": "small & cozy bar, good drinks, very basic", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/KCjlPXMinCL6B_4n9L4KEQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/lYkGMN1-mIb67XfroWTejQ/ms.jpg", 
+            "display_phone": "+1-212-777-1643", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "international-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "city": "New York", 
+                "display_address": [
+                    "120 1/2 1st Ave", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "120 1/2 1st Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 40.7270798946679, 
+                    "longitude": -73.9854097366333
+                }, 
+                "state_code": "NY"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/ten-degrees-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 653, 
+            "name": "Ten Degrees Bar", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/ten-degrees-bar-new-york?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=JaYwQk2K3jKJeUdOIBsfpA", 
+            "categories": [
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ], 
+                [
+                    "Gastropubs", 
+                    "gastropubs"
+                ]
+            ], 
+            "phone": "2123588600", 
+            "snippet_text": "I actually really enjoyed my experience here. The thing that stuck out to me was their amazing happy hour special till 8PM, which is 2-4-1 on everything!...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/8QWt63YmqNZZHqOBb1VZyA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/K4BN_UT8qI_Ij5_94G8Vtg/ms.jpg", 
+            "display_phone": "+1-212-358-8600", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "ten-degrees-bar-new-york", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "1st Ave & Avenue A", 
+                "city": "New York", 
+                "display_address": [
+                    "121 St. Marks Pl", 
+                    "East Village", 
+                    "New York, NY 10009"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Village", 
+                    "Alphabet City"
+                ], 
+                "postal_code": "10009", 
+                "country_code": "US", 
+                "address": [
+                    "121 St. Marks Pl"
+                ], 
+                "coordinate": {
+                    "latitude": 40.726994, 
+                    "longitude": -73.98336
+                }, 
+                "state_code": "NY"
+            }
+        }
+    ]
+}
